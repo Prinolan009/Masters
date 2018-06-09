@@ -1,0 +1,4397 @@
+DAY: 1
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 9	1	3	1	1	0	11	2	
+Supply: 18	3	4	1	1	1	12	3	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.309497191586061E-4
+
+DAY: 2
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 4	1	2	0	0	0	5	1	
+Supply: 10	1	2	0	0	0	8	6	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.051710068128699E-4
+
+DAY: 3
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 80	12	30	5	7	2	97	17	
+Supply: 82	28	56	5	7	4	98	22	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.0568401069911035E-4
+
+DAY: 4
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	27	5	
+Supply: 14	17	28	20	1	2	28	6	
+Import: 8	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.2849276404829765E-4
+
+DAY: 5
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 47	7	18	3	4	1	57	10	
+Supply: 58	19	31	20	3	2	64	20	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.998055456087286E-4
+
+DAY: 6
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 38	6	14	2	4	1	46	8	
+Supply: 54	14	19	18	1	2	90	13	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0027337543810962758
+
+DAY: 7
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 26	4	10	2	2	1	32	6	
+Supply: 32	8	10	16	0	1	43	9	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.024616478086147964
+
+DAY: 8
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 1	0	0	0	0	0	1	0	
+Supply: 6	4	0	14	0	0	11	3	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.07099926465511394
+
+DAY: 9
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	22	4	6	2	73	13	
+Supply: 106	12	36	17	5	2	138	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0042661288345306045
+
+DAY: 10
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	74	13	
+Supply: 62	14	40	14	2	2	85	14	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.004948291944181051
+
+DAY: 11
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 23	4	9	1	2	1	29	5	
+Supply: 20	5	21	11	1	0	35	15	
+Import: 3	0	0	0	1	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.459443259441514E-4
+
+DAY: 12
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 3	0	1	0	0	0	3	1	
+Supply: 0	1	12	10	0	0	7	10	
+Import: 3	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06376270173410128
+
+DAY: 13
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 8	1	3	1	1	0	10	2	
+Supply: 0	2	11	10	0	0	12	9	
+Import: 8	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.016796560509891322
+
+DAY: 14
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	76	14	
+Supply: 108	18	28	12	5	2	77	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.171581691090978E-4
+
+DAY: 15
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 1	0	0	0	0	0	2	0	
+Supply: 46	8	5	8	0	0	46	5	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1378643274150173
+
+DAY: 16
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 44	7	17	3	4	1	54	10	
+Supply: 53	9	16	8	1	0	62	16	
+Import: 0	0	1	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.458679255524771E-4
+
+DAY: 17
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	17	3	
+Supply: 14	3	4	5	0	0	26	7	
+Import: 0	0	1	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.014299980283909E-6
+
+DAY: 18
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 41	6	15	3	4	1	50	9	
+Supply: 72	7	26	6	3	2	52	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.666767020961515E-4
+
+DAY: 19
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 16	2	6	1	1	0	19	3	
+Supply: 31	33	11	3	0	1	22	18	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.005280138818579644
+
+DAY: 20
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	63	11	
+Supply: 88	35	32	4	3	2	76	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.210404555888658E-4
+
+DAY: 21
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	23	4	6	2	73	13	
+Supply: 65	31	24	9	3	2	143	16	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.133175786053016E-4
+
+DAY: 22
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 44	7	17	3	4	1	54	10	
+Supply: 32	24	10	6	1	0	83	15	
+Import: 12	0	7	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.8013935122544355E-5
+
+DAY: 23
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	37	7	
+Supply: 28	19	10	4	1	0	45	8	
+Import: 2	0	1	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.3367652975433656E-4
+
+DAY: 24
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	6	
+Supply: 44	17	16	3	2	1	68	10	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.462540934245112E-4
+
+DAY: 25
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	19	3	5	2	60	11	
+Supply: 84	16	30	6	3	2	66	12	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.9405426641378655E-4
+
+DAY: 26
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	52	9	
+Supply: 57	12	19	4	2	2	65	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.046655068917972E-4
+
+DAY: 27
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 140	14	48	5	5	3	162	23	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.922399000040513E-4
+
+DAY: 28
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	75	13	
+Supply: 75	35	46	2	1	2	82	24	
+Import: 0	0	0	2	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.560556349418334E-4
+
+DAY: 29
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 20	3	8	1	2	1	24	4	
+Supply: 26	25	23	15	0	0	38	10	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.029528957878313406
+
+DAY: 30
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	6	1	2	1	20	4	
+Supply: 12	22	15	14	0	0	23	6	
+Import: 5	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.04833250700091162
+
+DAY: 31
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 27	4	10	2	3	1	33	6	
+Supply: 28	21	14	14	1	0	66	9	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.967213390045287E-4
+
+DAY: 32
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	3	0	1	0	9	2	
+Supply: 2	17	4	12	0	0	32	3	
+Import: 5	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.09211889818296924
+
+DAY: 33
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 3	0	1	0	0	0	4	1	
+Supply: 0	16	2	12	0	0	23	1	
+Import: 3	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.08618316037888131
+
+DAY: 34
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	74	13	
+Supply: 92	23	36	15	4	2	75	15	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.693344264313282E-4
+
+DAY: 35
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	26	4	6	2	83	15	
+Supply: 77	20	30	14	4	2	85	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.433936812344882E-4
+
+DAY: 36
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 20	3	7	1	2	1	24	4	
+Supply: 32	10	14	10	1	0	22	7	
+Import: 0	0	0	0	1	1	2	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.073844234548261E-4
+
+DAY: 37
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 72	11	27	5	7	2	88	16	
+Supply: 144	16	30	13	6	4	171	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.339420469370452E-4
+
+DAY: 38
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	5	13	2	3	1	42	8	
+Supply: 72	85	6	8	0	2	82	13	
+Import: 0	0	7	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1253505775344306
+
+DAY: 39
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 16	2	6	1	1	0	19	3	
+Supply: 37	79	0	6	0	1	40	6	
+Import: 0	0	6	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.23940454842927555
+
+DAY: 40
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	7	18	3	4	1	58	10	
+Supply: 56	78	6	5	1	2	60	29	
+Import: 0	0	12	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.158150066270878E-4
+
+DAY: 41
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	26	5	
+Supply: 16	71	0	2	0	1	4	18	
+Import: 6	0	8	0	2	0	22	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06769070036389689
+
+DAY: 42
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 44	7	16	3	4	1	53	10	
+Supply: 34	71	14	4	2	2	42	17	
+Import: 10	0	2	0	2	0	11	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.342672658811238E-4
+
+DAY: 43
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 110	73	42	5	5	3	134	19	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.034281587649389E-4
+
+DAY: 44
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 56	9	21	4	5	2	69	12	
+Supply: 82	62	34	2	1	2	102	22	
+Import: 0	0	0	2	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.1596863850595582E-4
+
+DAY: 45
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 21	3	8	1	2	1	25	5	
+Supply: 26	53	13	10	0	0	33	9	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.13639603123020355
+
+DAY: 46
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	80	14	
+Supply: 90	56	40	11	4	2	114	28	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.54399853943164E-5
+
+DAY: 47
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 24	46	15	7	0	0	34	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.196300414341467
+
+DAY: 48
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 67	10	25	4	6	2	82	15	
+Supply: 92	50	46	8	3	2	122	19	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.63075016840105E-4
+
+DAY: 49
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	7	
+Supply: 50	40	21	4	0	0	40	15	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0795596619084113
+
+DAY: 50
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 72	11	27	5	7	2	88	16	
+Supply: 136	42	28	5	4	2	131	18	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.3341188349772892E-4
+
+DAY: 51
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	19	3	5	2	63	11	
+Supply: 71	32	8	0	1	0	71	23	
+Import: 0	0	11	3	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.485019606663173E-4
+
+DAY: 52
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	18	3	5	2	60	11	
+Supply: 96	29	22	4	3	2	88	18	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.950576605960918E-4
+
+DAY: 53
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 80	12	30	5	7	2	97	17	
+Supply: 93	28	42	8	4	2	110	30	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.616511132365986E-4
+
+DAY: 54
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 79	12	30	5	7	2	97	17	
+Supply: 140	25	33	7	5	4	192	26	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.085384927331688E-4
+
+DAY: 55
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	76	14	
+Supply: 65	14	8	4	0	2	99	18	
+Import: 0	0	15	0	6	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.367861294562545E-4
+
+DAY: 56
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 48	7	16	2	2	1	48	8	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.58399812635929E-4
+
+DAY: 57
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	6	13	2	3	1	43	8	
+Supply: 42	6	26	4	2	2	47	13	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1938553485208559E-4
+
+DAY: 58
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	81	14	
+Supply: 126	22	34	6	5	3	89	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.956856909696511E-4
+
+DAY: 59
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	19	3	5	2	63	11	
+Supply: 82	14	34	3	2	2	66	38	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.83611919255145E-5
+
+DAY: 60
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	7	1	2	1	21	4	
+Supply: 30	6	15	17	0	0	24	27	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.051687239758832604
+
+DAY: 61
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	3	0	1	0	8	2	
+Supply: 13	3	8	16	0	0	9	23	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.08808030215905158
+
+DAY: 62
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 64	10	24	4	6	2	78	14	
+Supply: 108	18	46	19	4	2	118	31	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.003308866044664569
+
+DAY: 63
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	27	5	
+Supply: 44	8	22	15	0	0	40	17	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1526600447974234
+
+DAY: 64
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	53	9	
+Supply: 80	8	21	15	2	2	106	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.606179103406362E-4
+
+DAY: 65
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	17	3	
+Supply: 37	47	10	12	0	1	53	7	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.14173681857301096
+
+DAY: 66
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 54	8	20	3	5	2	66	12	
+Supply: 76	47	20	12	1	2	108	20	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.320263147063656E-4
+
+DAY: 67
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	8	18	3	5	2	59	11	
+Supply: 64	41	8	10	1	0	108	21	
+Import: 0	0	10	0	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.550557954754595E-4
+
+DAY: 68
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	23	4	6	2	74	13	
+Supply: 80	37	18	8	2	2	78	16	
+Import: 0	0	5	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.459893153099301E-4
+
+DAY: 69
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	20	3	5	2	64	11	
+Supply: 54	33	26	6	3	2	105	12	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.921126448305018E-4
+
+DAY: 70
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	64	12	
+Supply: 60	29	34	5	3	2	76	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.3265659371547827E-4
+
+DAY: 71
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	6	1	2	1	21	4	
+Supply: 14	21	14	2	0	0	27	5	
+Import: 3	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.014188292365395384
+
+DAY: 72
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	53	10	
+Supply: 66	23	20	3	3	2	53	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.1463352570369806E-4
+
+DAY: 73
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	11	2	3	1	34	6	
+Supply: 37	18	18	2	1	1	35	14	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.6357260787364113E-4
+
+DAY: 74
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 69	11	26	4	6	2	84	15	
+Supply: 66	23	28	5	5	2	69	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.422779733791685E-6
+
+DAY: 75
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	27	5	
+Supply: 32	14	16	2	1	0	38	8	
+Import: 0	0	0	0	1	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0029603493850925986
+
+DAY: 76
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 122	19	27	7	5	4	81	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.205281401496904E-4
+
+DAY: 77
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 57	9	21	4	5	2	70	13	
+Supply: 90	14	30	5	3	3	75	42	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.690059206176215E-4
+
+DAY: 78
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 70	11	46	6	4	2	154	37	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0014054829683341837
+
+DAY: 79
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 46	8	28	9	2	2	97	27	
+Import: 12	1	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.002412220853380859
+
+DAY: 80
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	52	9	
+Supply: 54	8	32	8	2	2	58	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.503153106991021E-4
+
+DAY: 81
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 64	11	24	6	2	2	51	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.900295842623052E-4
+
+DAY: 82
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 27	6	10	4	0	1	54	8	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.010369627434141422
+
+DAY: 83
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 110	10	40	6	4	2	89	14	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.514821398311483E-4
+
+DAY: 84
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 8	1	3	1	1	0	10	2	
+Supply: 47	78	16	2	0	0	12	39	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.10229867481964022
+
+DAY: 85
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 72	11	27	5	7	2	88	16	
+Supply: 114	79	40	4	2	2	48	42	
+Import: 0	0	0	1	5	0	40	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.721213290653963E-4
+
+DAY: 86
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 8	1	3	0	1	0	9	2	
+Supply: 42	68	13	20	0	0	34	26	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.25016207010494407
+
+DAY: 87
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 102	70	32	21	2	2	90	28	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2166811304859948E-4
+
+DAY: 88
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 2	0	1	0	0	0	3	1	
+Supply: 28	58	4	16	0	0	26	12	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.2202715683176541
+
+DAY: 89
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	5	13	2	3	1	43	8	
+Supply: 52	58	6	16	0	0	44	11	
+Import: 0	0	7	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.051116279843806865
+
+DAY: 90
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 120	60	32	17	4	2	108	29	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.502136656301559E-4
+
+DAY: 91
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 6	1	2	0	1	0	8	1	
+Supply: 49	49	5	13	0	0	21	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.2614122352967577
+
+DAY: 92
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 43	48	6	13	0	0	43	13	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.18384773210638986
+
+DAY: 93
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 38	6	14	2	4	1	47	8	
+Supply: 60	46	2	12	0	0	54	10	
+Import: 0	0	12	0	4	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.009320059993534982
+
+DAY: 94
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	3	0	1	0	8	2	
+Supply: 22	40	0	10	0	0	22	2	
+Import: 0	0	3	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.11840398914108559
+
+DAY: 95
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	75	14	
+Supply: 104	45	28	12	4	2	120	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0016226512632966318
+
+DAY: 96
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 20	3	7	1	2	1	24	4	
+Supply: 42	35	10	8	0	0	45	6	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.15713154984961705
+
+DAY: 97
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	19	3	5	2	63	11	
+Supply: 92	36	24	9	2	2	102	16	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1166041155047424E-4
+
+DAY: 98
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 42	7	16	3	4	1	51	9	
+Supply: 43	29	12	6	0	0	94	14	
+Import: 0	0	4	0	4	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.744831463890364E-4
+
+DAY: 99
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 110	31	40	6	5	4	109	22	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.308862599609711E-4
+
+DAY: 100
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 77	12	29	5	7	2	94	17	
+Supply: 82	27	30	10	5	4	186	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.313736310824651E-4
+
+DAY: 101
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	26	4	6	2	83	15	
+Supply: 68	19	24	7	3	3	127	25	
+Import: 0	0	2	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.097448667470417E-6
+
+DAY: 102
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 20	10	8	4	1	1	56	12	
+Import: 11	0	4	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4010640136967822E-4
+
+DAY: 103
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	7	
+Supply: 40	8	16	3	2	1	43	9	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.7717793705940037E-4
+
+DAY: 104
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 69	11	26	4	6	2	84	15	
+Supply: 70	12	28	5	6	4	86	16	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.234346816161633E-4
+
+DAY: 105
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	25	4	6	2	80	14	
+Supply: 126	11	25	5	6	4	157	15	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.204638870159556E-4
+
+DAY: 106
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	47	8	
+Supply: 61	47	0	3	0	2	77	11	
+Import: 0	0	15	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.04148016134652417
+
+DAY: 107
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 76	12	28	5	7	2	92	17	
+Supply: 136	47	34	6	4	4	172	24	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4683121081645822E-5
+
+DAY: 108
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 6	1	2	0	1	0	7	1	
+Supply: 60	35	6	1	0	2	80	7	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.3432582444099543
+
+DAY: 109
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 124	35	14	4	1	2	83	18	
+Import: 0	0	10	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.511012813296816E-4
+
+DAY: 110
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	37	7	
+Supply: 61	25	0	0	0	0	37	35	
+Import: 0	0	11	2	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.001798790216162871
+
+DAY: 111
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	20	3	5	2	64	11	
+Supply: 58	24	20	4	3	2	123	34	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.6788019755000505E-4
+
+DAY: 112
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 12	16	0	2	0	0	59	23	
+Import: 20	0	12	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.005417739111178832
+
+DAY: 113
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	9	23	4	6	2	74	13	
+Supply: 92	18	34	6	4	2	76	26	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.5167567398095796E-5
+
+DAY: 114
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 26	4	10	2	2	1	32	6	
+Supply: 36	10	13	2	0	0	34	14	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.116203188363102E-4
+
+DAY: 115
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	65	12	
+Supply: 54	13	38	6	4	2	119	18	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.791363133619711E-4
+
+DAY: 116
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 102	13	37	6	5	4	115	24	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.947998494129024E-4
+
+DAY: 117
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	48	9	
+Supply: 43	15	15	4	2	3	51	11	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.089570686109425E-4
+
+DAY: 118
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	75	13	
+Supply: 118	18	40	5	5	4	138	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.3024919390564946E-4
+
+DAY: 119
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	6	13	2	3	1	43	8	
+Supply: 56	8	17	9	0	2	63	28	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.07257849257701747
+
+DAY: 120
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	23	4	6	2	73	13	
+Supply: 116	16	36	9	3	2	128	28	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.576047324146657E-4
+
+DAY: 121
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 72	36	38	6	1	0	83	18	
+Import: 0	0	0	0	5	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.295426392085914E-4
+
+DAY: 122
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	26	4	6	2	83	15	
+Supply: 116	34	32	5	5	4	84	15	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.91010354464197E-4
+
+DAY: 123
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 42	7	16	3	4	1	51	9	
+Supply: 64	26	24	4	2	3	65	26	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0013577961608406213
+
+DAY: 124
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	5	13	2	3	1	43	8	
+Supply: 62	20	24	3	1	2	48	19	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1201925550540182E-4
+
+DAY: 125
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	25	4	6	2	80	14	
+Supply: 70	22	27	13	4	4	166	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.269538164066148E-4
+
+DAY: 126
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 10	12	4	9	0	2	86	6	
+Import: 3	0	1	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1603121140678047
+
+DAY: 127
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 73	11	27	5	7	2	89	16	
+Supply: 88	17	32	11	4	3	123	24	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.6112399264975466E-5
+
+DAY: 128
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	20	3	5	2	64	11	
+Supply: 86	10	32	8	3	2	69	14	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.809789036190068E-4
+
+DAY: 129
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 1	0	0	0	0	0	1	0	
+Supply: 34	2	12	5	0	0	5	3	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.11773345403724225
+
+DAY: 130
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 86	49	32	8	5	4	88	29	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0069705581395283E-4
+
+DAY: 131
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 29	5	11	2	3	1	36	6	
+Supply: 40	39	14	4	0	2	12	14	
+Import: 0	0	0	0	3	0	24	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.325715320955169E-4
+
+DAY: 132
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	17	3	
+Supply: 22	34	6	2	0	1	0	8	
+Import: 0	0	0	0	1	0	17	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.031153436849536205
+
+DAY: 133
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 11	2	4	1	1	0	13	2	
+Supply: 16	32	2	1	0	1	0	5	
+Import: 0	0	2	0	1	0	13	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.027499097422606113
+
+DAY: 134
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	47	8	
+Supply: 62	34	20	3	2	2	64	9	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5021284830004335E-4
+
+DAY: 135
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 9	1	3	1	1	0	11	2	
+Supply: 23	28	5	4	0	1	17	3	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0953002523079275
+
+DAY: 136
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 15	2	6	1	1	0	19	3	
+Supply: 28	27	4	3	0	1	12	9	
+Import: 0	0	2	0	1	0	7	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.011501134280296952
+
+DAY: 137
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	65	12	
+Supply: 104	31	28	4	4	2	94	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.038359812650014E-4
+
+DAY: 138
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	6	
+Supply: 51	23	16	2	0	0	50	23	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.041278705573641675
+
+DAY: 139
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 5	1	2	0	1	0	7	1	
+Supply: 21	18	5	6	0	0	14	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1158555222774035
+
+DAY: 140
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 64	10	24	4	6	2	79	14	
+Supply: 120	24	38	9	4	2	120	26	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.417599971245181E-4
+
+DAY: 141
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 26	4	10	2	2	1	32	6	
+Supply: 56	14	14	5	0	0	41	12	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1197309419968158
+
+DAY: 142
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 73	11	27	5	7	2	89	16	
+Supply: 83	18	48	6	5	4	94	18	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.41483791997257E-4
+
+DAY: 143
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	6	13	2	3	1	43	8	
+Supply: 60	10	29	18	2	3	46	22	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.028354478232245E-5
+
+DAY: 144
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 116	10	29	17	3	3	129	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.488375340435709E-4
+
+DAY: 145
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 63	28	18	13	0	2	64	22	
+Import: 0	0	1	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.5159097584274833E-4
+
+DAY: 146
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	3	0	1	0	9	2	
+Supply: 12	20	0	10	0	0	12	10	
+Import: 0	0	3	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06269268647619672
+
+DAY: 147
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 21	3	8	1	2	1	25	4	
+Supply: 24	20	4	10	1	0	22	9	
+Import: 0	0	4	0	1	1	3	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.3690611164909115E-4
+
+DAY: 148
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	19	3	5	2	63	11	
+Supply: 88	23	30	12	4	2	100	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.611691601038274E-4
+
+DAY: 149
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 36	15	11	9	0	0	37	3	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.13749403568760862
+
+DAY: 150
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 21	3	8	1	2	1	26	5	
+Supply: 23	13	12	8	0	0	27	5	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.009636405621238736
+
+DAY: 151
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 118	19	25	11	5	4	147	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.536463746766003E-4
+
+DAY: 152
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 46	7	17	3	4	1	56	10	
+Supply: 54	9	2	7	0	2	69	15	
+Import: 0	0	15	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.814751142484397E-4
+
+DAY: 153
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 24	4	9	1	2	1	29	5	
+Supply: 44	4	10	5	1	1	29	8	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.6812773881127896E-5
+
+DAY: 154
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 50	8	19	3	5	2	61	11	
+Supply: 61	34	34	7	4	2	61	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.456558293817693E-4
+
+DAY: 155
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 50	28	20	5	1	0	42	12	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.001374073593184E-4
+
+DAY: 156
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 130	30	25	6	4	2	124	15	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.505231490723191E-4
+
+DAY: 157
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	16	3	
+Supply: 65	20	2	2	0	0	45	11	
+Import: 0	0	3	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.18271025355856285
+
+DAY: 158
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 15	2	6	1	1	0	19	3	
+Supply: 51	18	0	1	0	0	29	8	
+Import: 0	0	6	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.11627228834073065
+
+DAY: 159
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	18	3	
+Supply: 36	16	0	0	0	0	32	5	
+Import: 0	0	5	1	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.042530106944252466
+
+DAY: 160
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	75	13	
+Supply: 67	21	34	6	4	2	80	18	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.787965769384641E-4
+
+DAY: 161
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	23	4	6	2	76	14	
+Supply: 110	19	30	5	5	2	79	15	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.711316214183398E-4
+
+DAY: 162
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 58	11	22	4	1	0	42	29	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.094743552781267E-4
+
+DAY: 163
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 79	12	30	5	7	2	96	17	
+Supply: 83	15	31	6	5	4	177	35	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.118624850601577E-4
+
+DAY: 164
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 82	21	30	5	3	3	126	26	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.201931671986017E-4
+
+DAY: 165
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	47	9	
+Supply: 54	12	18	2	1	2	58	13	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0019299088314282072
+
+DAY: 166
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	2	0	1	0	8	1	
+Supply: 15	6	3	1	0	1	11	4	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.03873454521651829
+
+DAY: 167
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 8	1	3	1	1	0	10	2	
+Supply: 10	5	4	1	0	1	19	3	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.197928379074256E-4
+
+DAY: 168
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 25	4	9	2	2	1	30	5	
+Supply: 42	7	16	2	2	2	32	6	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.228837880039976E-4
+
+DAY: 169
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 10	2	4	1	1	0	12	2	
+Supply: 17	3	7	1	0	1	13	7	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.346421240680187E-4
+
+DAY: 170
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 59	9	22	4	6	2	72	13	
+Supply: 60	20	23	4	5	3	143	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.168308522003258E-4
+
+DAY: 171
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 40	6	15	3	4	1	49	9	
+Supply: 26	13	10	2	1	2	87	20	
+Import: 14	0	5	1	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.017298170395804E-4
+
+DAY: 172
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 12	2	4	1	1	0	14	3	
+Supply: 0	7	0	1	0	1	38	11	
+Import: 12	0	4	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.03965431880236559
+
+DAY: 173
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	17	3	
+Supply: 2	5	2	1	0	1	26	8	
+Import: 12	0	3	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.569401333977254E-4
+
+DAY: 174
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 90	10	34	3	4	2	64	15	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.563303475484759E-4
+
+DAY: 175
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 57	9	21	4	5	2	69	12	
+Supply: 76	54	29	10	4	2	75	31	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.151424049529737E-4
+
+DAY: 176
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 9	1	3	1	1	0	11	2	
+Supply: 19	45	8	6	0	0	15	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.14855648789498851
+
+DAY: 177
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 64	10	24	4	6	2	78	14	
+Supply: 94	50	38	7	3	2	98	25	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.189363635528025E-5
+
+DAY: 178
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 142	46	58	6	4	2	138	20	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.3217262256712273E-4
+
+DAY: 179
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 36	6	13	2	3	1	44	8	
+Supply: 64	34	29	33	0	0	71	31	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.12177218270328061
+
+DAY: 180
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 24	4	9	1	2	1	29	5	
+Supply: 28	28	16	31	0	0	31	23	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.15683870875940303
+
+DAY: 181
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 67	11	25	4	6	2	82	15	
+Supply: 88	30	44	33	4	2	104	27	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.426002004909492E-4
+
+DAY: 182
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 11	2	4	1	1	0	14	3	
+Supply: 21	19	19	29	0	0	22	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.17155032156874658
+
+DAY: 183
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 80	22	26	30	3	2	124	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.459551610069184E-4
+
+DAY: 184
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	7	
+Supply: 44	13	8	26	0	0	53	9	
+Import: 0	0	3	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.053791341559026505
+
+DAY: 185
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	27	5	
+Supply: 30	8	2	24	0	0	38	11	
+Import: 0	0	6	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.382522118890222E-4
+
+DAY: 186
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 18	5	2	23	0	0	26	6	
+Import: 0	0	5	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.980092095797488E-4
+
+DAY: 187
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	8	18	3	5	2	59	11	
+Supply: 78	8	30	24	4	2	102	11	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4814501998068862E-4
+
+DAY: 188
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 60	0	12	21	0	0	43	8	
+Import: 0	5	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.014507891176925171
+
+DAY: 189
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 12	2	5	1	1	0	15	3	
+Supply: 29	34	0	19	0	0	22	18	
+Import: 0	0	5	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.03157368886528235
+
+DAY: 190
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	52	9	
+Supply: 64	34	12	19	1	0	52	18	
+Import: 0	0	4	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.407389954309564E-4
+
+DAY: 191
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 57	9	21	4	5	2	69	12	
+Supply: 110	32	26	18	3	2	84	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.876407171937672E-4
+
+DAY: 192
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 72	11	27	5	7	2	88	16	
+Supply: 89	29	38	16	3	2	92	29	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.048495806804795E-4
+
+DAY: 193
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 73	11	28	5	7	2	89	16	
+Supply: 134	26	30	14	5	4	148	24	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.504834591665827E-4
+
+DAY: 194
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 24	4	9	2	2	1	29	5	
+Supply: 61	15	4	9	0	2	58	8	
+Import: 0	0	5	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1584210213106921
+
+DAY: 195
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 40	6	15	2	4	1	48	9	
+Supply: 49	13	8	8	1	2	52	15	
+Import: 0	0	7	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.69867681562863E-4
+
+DAY: 196
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	6	1	2	1	21	4	
+Supply: 32	8	4	6	1	1	24	8	
+Import: 0	0	2	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.990486939504478E-4
+
+DAY: 197
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	19	3	5	2	60	11	
+Supply: 54	11	30	7	4	2	65	13	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5214287358543288E-4
+
+DAY: 198
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 54	6	19	5	2	1	38	7	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.390488288878089E-4
+
+DAY: 199
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 41	6	16	3	4	1	50	9	
+Supply: 53	35	18	5	3	2	52	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.916752256089581E-4
+
+DAY: 200
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 5	1	2	0	0	0	6	1	
+Supply: 12	29	2	2	0	1	9	10	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0844773877070252
+
+DAY: 201
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 10	2	4	1	1	0	12	2	
+Supply: 14	28	0	2	0	1	6	9	
+Import: 0	0	4	0	1	0	6	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.03547764079131085
+
+DAY: 202
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	80	14	
+Supply: 114	34	40	5	5	3	130	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.991647422956134E-4
+
+DAY: 203
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 59	9	22	4	6	2	72	13	
+Supply: 62	26	40	4	1	2	73	16	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.7914517138506196E-4
+
+DAY: 204
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 16	18	20	13	1	0	33	4	
+Import: 2	0	0	0	1	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.001815402649931528
+
+DAY: 205
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 14	2	5	1	1	0	17	3	
+Supply: 0	15	13	12	0	0	19	8	
+Import: 14	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.015829715999384063
+
+DAY: 206
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 25	4	9	2	2	1	30	5	
+Supply: 26	15	13	12	1	0	63	8	
+Import: 0	0	0	0	1	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.338083339318189E-4
+
+DAY: 207
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 36	14	20	11	2	2	53	10	
+Import: 1	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.288887655846679E-4
+
+DAY: 208
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 19	3	7	1	2	1	24	4	
+Supply: 18	9	9	10	1	1	46	6	
+Import: 1	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.2451885636083374E-5
+
+DAY: 209
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 42	7	16	3	4	1	52	9	
+Supply: 58	10	26	11	3	2	58	10	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.507538363552385E-4
+
+DAY: 210
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 20	4	11	8	0	1	46	4	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.91591703001589E-4
+
+DAY: 211
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 44	8	24	8	2	2	49	7	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.4313686950039254E-4
+
+DAY: 212
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 26	4	10	2	2	1	31	6	
+Supply: 46	5	16	7	1	1	37	9	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.995765237976286E-4
+
+DAY: 213
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 78	33	28	9	5	4	91	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.3395035463346403E-4
+
+DAY: 214
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 41	6	15	3	4	1	50	9	
+Supply: 70	26	22	7	3	3	76	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.706730640731053E-4
+
+DAY: 215
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 29	5	11	2	3	1	35	6	
+Supply: 29	20	14	4	0	2	53	9	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.001583055370374268
+
+DAY: 216
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	65	12	
+Supply: 82	21	36	5	4	2	66	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.5767121876733655E-4
+
+DAY: 217
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 75	12	28	5	7	2	91	16	
+Supply: 84	22	37	5	5	4	96	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.53005344033295E-4
+
+DAY: 218
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	6	1	2	1	21	4	
+Supply: 28	11	11	5	0	2	47	6	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.40845785689919E-4
+
+DAY: 219
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	53	9	
+Supply: 72	12	28	6	2	2	57	10	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.170865174345863E-5
+
+DAY: 220
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	5	13	2	3	1	42	8	
+Supply: 46	8	18	4	2	2	104	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.0177796969412614E-5
+
+DAY: 221
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	22	4	6	2	73	13	
+Supply: 82	17	32	4	3	2	98	16	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.355237137445101E-5
+
+DAY: 222
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	25	4	6	2	82	15	
+Supply: 69	14	28	11	4	2	83	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.887995747426203E-4
+
+DAY: 223
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	27	5	
+Supply: 34	6	9	8	2	1	47	6	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0025606224888464623
+
+DAY: 224
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 57	9	21	4	5	2	70	12	
+Supply: 110	10	34	10	4	2	73	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.440328411890504E-4
+
+DAY: 225
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	48	9	
+Supply: 68	63	19	7	1	0	51	33	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.486963011765851E-4
+
+DAY: 226
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 112	61	28	7	2	2	70	30	
+Import: 0	0	0	0	4	0	9	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.287681299396808E-4
+
+DAY: 227
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 59	53	18	4	1	0	96	19	
+Import: 0	0	1	0	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.512700812948879E-4
+
+DAY: 228
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	75	13	
+Supply: 78	50	22	6	3	2	142	15	
+Import: 0	0	1	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.416598578854746E-5
+
+DAY: 229
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	11	2	3	1	34	6	
+Supply: 34	40	0	2	0	0	67	13	
+Import: 0	0	11	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.077526304288993
+
+DAY: 230
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	65	12	
+Supply: 66	40	20	4	3	2	67	13	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.720179922127045E-4
+
+DAY: 231
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 29	5	11	2	3	1	35	6	
+Supply: 54	34	10	2	1	0	36	14	
+Import: 0	0	1	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4333827710316882E-5
+
+DAY: 232
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 36	31	8	2	1	0	79	10	
+Import: 0	0	4	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.33515100834029E-4
+
+DAY: 233
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 22	3	8	1	2	1	26	5	
+Supply: 10	26	0	0	0	0	41	8	
+Import: 12	0	8	1	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.014258766890721062
+
+DAY: 234
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 48	27	18	2	2	2	88	15	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.190205405719553E-5
+
+DAY: 235
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	18	3	5	2	59	11	
+Supply: 64	24	24	5	2	2	68	12	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.149821684756489E-4
+
+DAY: 236
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 69	11	26	4	6	2	84	15	
+Supply: 138	24	26	5	5	4	149	18	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.866707626737025E-4
+
+DAY: 237
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 24	4	9	1	2	1	29	5	
+Supply: 69	13	0	2	0	2	65	14	
+Import: 0	0	9	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.15478872932956786
+
+DAY: 238
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 45	9	0	2	0	1	49	9	
+Import: 0	0	12	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.392833842857214E-4
+
+DAY: 239
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	81	15	
+Supply: 70	13	42	8	5	4	84	18	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.359769508346858E-4
+
+DAY: 240
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 12	2	5	1	1	0	15	3	
+Supply: 10	3	17	4	0	2	17	3	
+Import: 2	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.998627707386106E-5
+
+DAY: 241
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 90	9	29	6	4	3	67	20	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.038443166957791E-4
+
+DAY: 242
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 64	10	24	4	6	2	78	14	
+Supply: 81	50	26	6	4	2	93	18	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.805031741094239E-4
+
+DAY: 243
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 130	48	40	5	5	4	148	27	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.854421909248572E-4
+
+DAY: 244
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 27	4	10	2	3	1	33	6	
+Supply: 56	36	12	4	0	2	58	11	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1780801246424428
+
+DAY: 245
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 72	11	27	4	7	2	87	16	
+Supply: 140	38	36	5	4	4	150	23	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.261290107137825E-4
+
+DAY: 246
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 90	30	34	6	2	3	102	24	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.527658449044907E-4
+
+DAY: 247
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 36	6	13	2	3	1	44	8	
+Supply: 64	21	26	3	2	2	62	11	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.117289289350481E-4
+
+DAY: 248
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 46	7	17	3	4	1	56	10	
+Supply: 49	18	21	11	2	2	57	11	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.894930346339493E-4
+
+DAY: 249
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 77	12	29	5	7	2	94	17	
+Supply: 142	22	29	13	6	3	166	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.562199805885712E-4
+
+DAY: 250
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 65	10	0	8	0	1	72	3	
+Import: 0	0	5	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.23556013474562731
+
+DAY: 251
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 63	10	8	8	1	2	70	18	
+Import: 0	0	11	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.914776922694159E-4
+
+DAY: 252
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 34	5	13	2	3	1	41	7	
+Supply: 35	6	18	6	2	2	81	12	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.155889799511784E-5
+
+DAY: 253
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 13	2	5	1	1	0	16	3	
+Supply: 2	4	5	4	0	1	39	5	
+Import: 11	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0304114721171283
+
+DAY: 254
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 40	6	15	3	4	1	49	9	
+Supply: 60	7	22	5	3	2	60	9	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.373462785766492E-5
+
+DAY: 255
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	2	0	1	0	8	1	
+Supply: 20	29	7	2	0	1	11	14	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.042597326115657926
+
+DAY: 256
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 58	31	22	3	2	2	46	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.501841531996547E-4
+
+DAY: 257
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 56	9	21	4	5	2	69	12	
+Supply: 57	31	42	7	3	2	92	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.300500995877883E-4
+
+DAY: 258
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 35	6	13	2	3	1	43	8	
+Supply: 26	24	25	4	1	0	49	8	
+Import: 9	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.512715391910433E-4
+
+DAY: 259
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	18	3	5	2	60	11	
+Supply: 74	24	26	4	4	2	67	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0010745709551522964
+
+DAY: 260
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	21	4	
+Supply: 25	16	8	5	0	0	23	5	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.012910645019545555
+
+DAY: 261
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	36	6	
+Supply: 56	16	18	5	2	1	54	9	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.01134434539108E-4
+
+DAY: 262
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 44	7	16	3	4	1	53	10	
+Supply: 49	15	30	4	2	2	56	12	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.881288246463782E-4
+
+DAY: 263
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 6	1	2	0	1	0	7	1	
+Supply: 10	8	14	1	0	1	14	3	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.029702341289349534
+
+DAY: 264
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 75	12	28	5	7	2	91	16	
+Supply: 136	17	36	5	6	3	93	24	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.467507820479909E-4
+
+DAY: 265
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 17	3	6	1	2	1	20	4	
+Supply: 61	5	8	4	0	1	46	8	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06528393770204137
+
+DAY: 266
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 46	7	17	3	4	1	57	10	
+Supply: 65	47	20	4	2	2	70	28	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.944670536068316E-4
+
+DAY: 267
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 12	2	4	1	1	0	14	3	
+Supply: 19	40	6	1	0	1	20	17	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1147404639440383
+
+DAY: 268
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 64	10	24	4	6	2	78	14	
+Supply: 98	45	36	6	4	2	116	23	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.350236415369182E-4
+
+DAY: 269
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 88	36	32	6	1	0	100	20	
+Import: 0	0	0	0	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1912325475128683E-4
+
+DAY: 270
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	14	2	4	1	47	8	
+Supply: 74	28	26	3	0	0	76	9	
+Import: 0	0	0	0	4	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.012263298575405202
+
+DAY: 271
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 80	12	30	5	7	2	97	17	
+Supply: 83	29	30	8	4	2	97	20	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.004633033056472812
+
+DAY: 272
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 33	5	12	2	3	1	40	7	
+Supply: 56	21	18	5	2	2	60	8	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.31467545092596E-4
+
+DAY: 273
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 64	22	44	6	4	2	144	15	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.343238441571657E-4
+
+DAY: 274
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	91	16	
+Supply: 84	18	36	5	4	2	118	19	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.803516786489014E-4
+
+DAY: 275
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	74	13	
+Supply: 108	13	24	4	4	2	80	15	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.90683708432357E-4
+
+DAY: 276
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 86	74	32	4	4	2	82	39	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.637069563667865E-4
+
+DAY: 277
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 77	12	29	5	7	2	94	17	
+Supply: 122	70	44	4	3	2	104	33	
+Import: 0	0	0	1	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.569005531969651E-4
+
+DAY: 278
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	23	4	6	2	76	14	
+Supply: 124	61	42	2	2	2	60	20	
+Import: 0	0	0	2	4	0	16	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.524865857762961E-4
+
+DAY: 279
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 92	56	30	8	3	2	95	31	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.1217924608424708E-4
+
+DAY: 280
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 130	51	38	7	4	2	124	25	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.624899754949524E-4
+
+DAY: 281
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 34	5	13	2	3	1	41	7	
+Supply: 56	39	20	4	0	0	56	9	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.08561279151911631
+
+DAY: 282
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	19	3	5	2	63	11	
+Supply: 94	38	34	4	2	2	92	18	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.890702776907687E-4
+
+DAY: 283
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 16	3	6	1	2	1	20	4	
+Supply: 42	30	15	20	0	0	29	7	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.14483526707757527
+
+DAY: 284
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	9	23	4	6	2	74	13	
+Supply: 114	32	42	21	3	2	92	18	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.43185462779104E-4
+
+DAY: 285
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 10	2	4	1	1	0	13	2	
+Supply: 53	23	19	17	0	0	18	4	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.20214776699255846
+
+DAY: 286
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	8	18	3	5	2	59	11	
+Supply: 59	23	21	17	1	0	126	16	
+Import: 0	0	0	0	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.003017880204798587
+
+DAY: 287
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	96	17	
+Supply: 106	22	38	17	4	2	118	21	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.766683801972704E-4
+
+DAY: 288
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 41	6	15	3	4	1	50	9	
+Supply: 43	12	28	13	1	0	93	11	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.080618498208878E-4
+
+DAY: 289
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 18	7	16	10	1	0	52	8	
+Import: 13	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.308273691864542E-4
+
+DAY: 290
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 1	0	0	0	0	0	2	0	
+Supply: 0	2	4	8	0	0	14	1	
+Import: 13	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.05004659640395206
+
+DAY: 291
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 100	10	23	11	5	2	72	13	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.602037100967778E-4
+
+DAY: 292
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 4	1	2	0	0	0	5	1	
+Supply: 42	1	2	7	0	0	39	1	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.07820612732202988
+
+DAY: 293
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 38	41	0	7	0	0	33	24	
+Import: 0	0	7	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0442684785568382
+
+DAY: 294
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 70	11	26	4	7	2	85	15	
+Supply: 120	44	30	8	4	2	120	29	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.296520797799985E-4
+
+DAY: 295
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 24	4	9	1	2	1	29	5	
+Supply: 50	33	8	4	0	0	35	14	
+Import: 0	0	1	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.12872901907956133
+
+DAY: 296
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 11	2	4	1	1	0	13	2	
+Supply: 26	29	0	3	0	0	21	9	
+Import: 0	0	4	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.07959031837048244
+
+DAY: 297
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 5	1	2	0	0	0	6	1	
+Supply: 15	27	0	2	0	0	9	7	
+Import: 0	0	2	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0906573939583308
+
+DAY: 298
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 9	1	3	1	1	0	11	2	
+Supply: 10	26	0	2	0	0	12	6	
+Import: 0	0	3	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.035686399886081126
+
+DAY: 299
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	95	17	
+Supply: 138	36	50	5	6	4	168	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.266338481644198E-4
+
+DAY: 300
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	64	12	
+Supply: 60	24	21	4	0	2	73	12	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.030893082907952816
+
+DAY: 301
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 78	12	29	5	7	2	96	17	
+Supply: 150	27	52	5	6	4	182	21	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.625569963257703E-4
+
+DAY: 302
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	11	2	3	1	35	6	
+Supply: 72	15	23	25	0	2	86	21	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.22433641841026736
+
+DAY: 303
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	52	9	
+Supply: 44	11	24	23	0	2	52	15	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.04441974746622185
+
+DAY: 304
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 59	9	22	4	6	2	72	13	
+Supply: 96	11	26	23	4	2	137	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.0695619718263744E-4
+
+DAY: 305
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 34	5	13	2	3	1	42	7	
+Supply: 37	9	8	19	0	0	64	10	
+Import: 0	0	5	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0417749668646818
+
+DAY: 306
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 124	13	44	21	5	4	93	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.279446875695726E-4
+
+DAY: 307
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 27	4	10	2	3	1	33	6	
+Supply: 50	48	16	16	0	2	55	24	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.00733113415669419
+
+DAY: 308
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 38	6	14	2	4	1	47	8	
+Supply: 46	44	12	14	0	2	44	18	
+Import: 0	0	2	0	4	0	3	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.014897848834013303
+
+DAY: 309
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	39	7	
+Supply: 36	39	8	13	1	1	24	12	
+Import: 0	0	4	0	2	0	15	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.059004522993746E-5
+
+DAY: 310
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 45	7	17	3	4	1	55	10	
+Supply: 64	38	20	13	3	2	68	11	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.378881165423764E-4
+
+DAY: 311
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 7	1	3	0	1	0	8	1	
+Supply: 19	31	3	10	0	1	13	3	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.11340560291751291
+
+DAY: 312
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	7	18	3	4	1	58	10	
+Supply: 82	35	22	12	3	2	80	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.742798274370898E-4
+
+DAY: 313
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 75	34	40	12	4	4	152	23	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.709741082127608E-4
+
+DAY: 314
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 69	11	26	4	6	2	84	15	
+Supply: 68	27	48	9	3	3	103	20	
+Import: 1	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.6273314535119425E-4
+
+DAY: 315
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 54	9	20	3	5	2	66	12	
+Supply: 66	21	34	7	3	2	74	12	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.597180673649973E-4
+
+DAY: 316
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	15	2	4	1	48	9	
+Supply: 72	16	23	5	2	2	53	13	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.822875083500094E-4
+
+DAY: 317
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 70	11	26	4	7	2	85	15	
+Supply: 82	18	52	6	5	3	89	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.823339587595683E-4
+
+DAY: 318
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 52	8	20	3	5	2	64	11	
+Supply: 96	13	39	4	3	2	65	28	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.308637511309144E-4
+
+DAY: 319
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 51	8	19	3	5	2	62	11	
+Supply: 67	9	28	22	2	2	71	22	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.682112804076155E-4
+
+DAY: 320
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	25	4	6	2	83	15	
+Supply: 128	16	27	21	4	2	147	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.004786257205602851
+
+DAY: 321
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 38	6	14	2	4	1	46	8	
+Supply: 60	54	4	17	0	0	64	12	
+Import: 0	0	10	0	4	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.0681439737386456
+
+DAY: 322
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 44	48	0	15	0	0	36	18	
+Import: 0	0	12	0	3	1	2	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.01790803839780071
+
+DAY: 323
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 67	11	25	4	6	2	82	15	
+Supply: 108	49	32	16	4	2	102	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.03153043198904E-4
+
+DAY: 324
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 39	6	14	2	4	1	47	8	
+Supply: 41	38	14	12	0	0	59	19	
+Import: 0	0	0	0	4	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.004174249229387072
+
+DAY: 325
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 90	39	32	13	4	2	130	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.441285404480141E-4
+
+DAY: 326
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 25	4	9	2	2	1	30	5	
+Supply: 25	29	16	9	0	0	51	7	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1002307063655199
+
+DAY: 327
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	37	7	
+Supply: 22	27	22	8	1	0	68	11	
+Import: 8	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.445139191871874E-4
+
+DAY: 328
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 62	10	23	4	6	2	76	14	
+Supply: 78	28	25	8	4	2	78	14	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.011741629933567E-6
+
+DAY: 329
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 6	1	2	0	1	0	7	1	
+Supply: 16	18	4	4	0	0	12	10	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.04826274549666178
+
+DAY: 330
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 63	10	24	4	6	2	77	14	
+Supply: 116	25	40	7	5	2	128	20	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.003214496154688959
+
+DAY: 331
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 55	9	21	3	5	2	67	12	
+Supply: 63	16	40	4	1	0	71	16	
+Import: 0	0	0	0	4	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.093794846412493E-4
+
+DAY: 332
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 48	8	18	3	5	2	59	11	
+Supply: 86	13	32	17	3	2	60	12	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.104516202802529E-4
+
+DAY: 333
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	22	4	6	2	73	13	
+Supply: 75	11	28	16	3	2	82	24	
+Import: 0	0	0	0	3	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.501080769697183E-4
+
+DAY: 334
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 55	9	21	3	5	2	68	12	
+Supply: 106	16	40	14	4	2	112	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5344051868896712E-4
+
+DAY: 335
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 25	4	9	2	2	1	30	5	
+Supply: 51	7	19	11	0	0	44	7	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.12119890892354729
+
+DAY: 336
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 3	1	1	0	0	0	4	1	
+Supply: 26	3	10	9	0	0	14	2	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.10774581688043723
+
+DAY: 337
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 32	5	12	2	3	1	38	7	
+Supply: 38	21	14	10	1	0	43	10	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.176229740249937E-4
+
+DAY: 338
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 80	12	30	5	7	2	97	17	
+Supply: 146	26	54	12	6	4	172	19	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1331831931215674E-4
+
+DAY: 339
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	65	12	
+Supply: 66	14	24	7	0	2	75	18	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.04434463507634496
+
+DAY: 340
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 3	0	1	0	0	0	4	1	
+Supply: 13	6	4	4	0	0	10	7	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06819771137917004
+
+DAY: 341
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 76	12	28	5	7	2	92	17	
+Supply: 150	16	54	8	6	4	170	20	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.718552463920787E-4
+
+DAY: 342
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	19	3	5	2	60	11	
+Supply: 74	57	26	10	0	2	78	33	
+Import: 0	0	0	0	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.06767503148316752
+
+DAY: 343
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 16	3	6	1	2	1	20	4	
+Supply: 25	49	7	7	0	0	27	23	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.15441979014196636
+
+DAY: 344
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 2	0	1	0	0	0	3	0	
+Supply: 9	46	1	6	0	0	7	19	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.1627608517474266
+
+DAY: 345
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 11	2	4	1	1	0	14	2	
+Supply: 14	46	0	6	0	0	8	19	
+Import: 0	0	4	0	1	0	6	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.09397654469170925
+
+DAY: 346
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	12	28	5	7	2	90	16	
+Supply: 110	52	40	8	5	4	128	28	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.128529132699555E-4
+
+DAY: 347
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	26	4	6	2	83	15	
+Supply: 118	44	40	5	2	3	132	17	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.167875428248522E-4
+
+DAY: 348
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	18	3	5	2	59	11	
+Supply: 51	33	28	2	0	2	61	13	
+Import: 0	0	0	1	5	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.079776985135481E-4
+
+DAY: 349
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 5	1	2	0	0	0	6	1	
+Supply: 4	25	10	8	0	0	10	2	
+Import: 1	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.050683479980499886
+
+DAY: 350
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 21	3	8	1	2	1	26	5	
+Supply: 14	25	11	8	1	0	49	5	
+Import: 7	0	0	0	1	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.52266022994121E-4
+
+DAY: 351
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 55	9	20	3	5	2	66	12	
+Supply: 74	28	34	9	3	2	68	16	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.9263190483842435E-4
+
+DAY: 352
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 11	2	4	1	1	0	14	2	
+Supply: 19	19	14	6	0	0	19	4	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.05591280688589035
+
+DAY: 353
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	10	2	3	1	34	6	
+Supply: 42	19	15	6	1	0	35	10	
+Import: 0	0	0	0	2	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.667303816414517E-4
+
+DAY: 354
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 2	0	1	0	0	0	3	0	
+Supply: 14	15	5	4	0	0	13	3	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.07067847573459561
+
+DAY: 355
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	71	13	
+Supply: 110	22	40	7	4	2	124	16	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.331664758906413E-4
+
+DAY: 356
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 2	0	1	0	0	0	2	0	
+Supply: 52	13	18	3	0	0	53	4	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.27469284221437656
+
+DAY: 357
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 74	11	28	5	7	2	90	16	
+Supply: 80	18	28	5	3	2	93	16	
+Import: 0	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5344314885794573E-4
+
+DAY: 358
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 53	8	20	3	5	2	64	12	
+Supply: 54	14	36	6	4	2	65	13	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.001667848802591152
+
+DAY: 359
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	22	4	6	2	73	13	
+Supply: 102	14	35	6	5	2	76	25	
+Import: 0	0	0	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.229396328903021E-4
+
+DAY: 360
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 38	6	14	2	4	1	46	8	
+Supply: 56	7	18	3	1	0	59	15	
+Import: 0	0	0	0	3	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.120245256658791E-4
+
+DAY: 361
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 71	11	27	4	7	2	87	16	
+Supply: 75	27	52	5	5	4	90	20	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.678289052041123E-4
+
+DAY: 362
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 42	7	16	3	4	1	51	9	
+Supply: 58	20	34	3	2	3	51	27	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.638949047147208E-4
+
+DAY: 363
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 64	15	24	11	1	2	99	21	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.003525570271632745
+
+DAY: 364
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 18	3	7	1	2	1	22	4	
+Supply: 27	9	10	9	0	1	54	13	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.13375531434249346
+
+DAY: 365
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 58	9	22	4	5	2	70	13	
+Supply: 92	12	34	10	3	2	76	17	
+Import: 0	0	0	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.603463079220205E-4
+
+AVERAGES ACHIEVED OVER 365 DAYS
+--------------------------------------------------------------------------
+		A+	A-	B+	B-	AB+	AB-	O+	O-
+Avg demand:	41.35 	6.46 	15.51 	2.58 	3.88 	1.29 	50.40 	9.05 	
+Avg supply:	62.03 	24.93 	21.29 	8.18 	1.93 	1.51 	69.68 	15.59 	
+Avg import:	0.68 	0.02 	1.03 	0.05 	1.96 	0.23 	0.54 	0.00 	
+Avg expiry:	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	
+Number of Solutions: 0
+Time: 4396148
+
+Supply
+42 
+26 
+303 
+116 
+217 
+211 
+119 
+38 
+330 
+233 
+108 
+40 
+44 
+269 
+118 
+165 
+59 
+180 
+120 
+261 
+293 
+171 
+115 
+161 
+219 
+181 
+400 
+266 
+137 
+92 
+152 
+70 
+54 
+262 
+252 
+96 
+400 
+268 
+169 
+237 
+112 
+186 
+391 
+307 
+144 
+345 
+140 
+342 
+170 
+366 
+206 
+262 
+317 
+432 
+210 
+132 
+141 
+302 
+241 
+119 
+72 
+346 
+146 
+250 
+167 
+286 
+253 
+241 
+240 
+226 
+83 
+182 
+126 
+218 
+111 
+281 
+262 
+330 
+219 
+184 
+177 
+110 
+275 
+194 
+331 
+204 
+347 
+144 
+187 
+372 
+151 
+166 
+184 
+96 
+335 
+146 
+283 
+198 
+327 
+365 
+276 
+112 
+122 
+227 
+349 
+200 
+427 
+191 
+281 
+158 
+268 
+112 
+258 
+109 
+254 
+306 
+145 
+342 
+184 
+338 
+254 
+295 
+213 
+179 
+326 
+129 
+302 
+224 
+61 
+301 
+125 
+73 
+57 
+196 
+81 
+84 
+281 
+166 
+81 
+343 
+142 
+276 
+189 
+329 
+209 
+64 
+90 
+273 
+111 
+88 
+345 
+158 
+102 
+215 
+158 
+336 
+145 
+107 
+89 
+232 
+265 
+167 
+356 
+296 
+160 
+41 
+43 
+109 
+49 
+275 
+161 
+58 
+45 
+222 
+281 
+112 
+317 
+416 
+262 
+157 
+332 
+122 
+303 
+153 
+113 
+80 
+259 
+144 
+122 
+200 
+291 
+298 
+385 
+157 
+149 
+84 
+186 
+132 
+187 
+65 
+60 
+350 
+224 
+106 
+67 
+138 
+148 
+100 
+178 
+94 
+144 
+122 
+265 
+221 
+131 
+228 
+274 
+110 
+189 
+201 
+254 
+229 
+113 
+257 
+241 
+312 
+250 
+318 
+156 
+215 
+151 
+167 
+85 
+202 
+201 
+369 
+165 
+115 
+243 
+56 
+228 
+280 
+407 
+179 
+400 
+292 
+191 
+171 
+401 
+159 
+180 
+162 
+60 
+168 
+84 
+181 
+251 
+137 
+217 
+82 
+161 
+170 
+51 
+320 
+133 
+237 
+104 
+330 
+283 
+216 
+274 
+172 
+301 
+286 
+250 
+323 
+382 
+313 
+317 
+381 
+184 
+284 
+143 
+324 
+134 
+263 
+328 
+201 
+112 
+29 
+236 
+92 
+143 
+357 
+144 
+88 
+60 
+56 
+426 
+196 
+447 
+244 
+171 
+315 
+148 
+321 
+211 
+180 
+134 
+219 
+80 
+252 
+344 
+281 
+219 
+186 
+271 
+251 
+222 
+366 
+211 
+161 
+334 
+183 
+331 
+137 
+159 
+237 
+65 
+343 
+210 
+225 
+241 
+313 
+139 
+64 
+138 
+439 
+206 
+44 
+428 
+281 
+138 
+88 
+93 
+375 
+361 
+190 
+59 
+113 
+234 
+81 
+127 
+54 
+325 
+143 
+246 
+194 
+264 
+159 
+278 
+199 
+237 
+123 
+246 
+--------------------------------------------------
+Demand
+29 
+14 
+252 
+69 
+148 
+120 
+82 
+3 
+188 
+193 
+74 
+8 
+27 
+197 
+4 
+139 
+44 
+130 
+49 
+163 
+190 
+140 
+96 
+93 
+156 
+134 
+225 
+195 
+63 
+53 
+87 
+23 
+10 
+192 
+215 
+62 
+229 
+109 
+49 
+151 
+68 
+138 
+247 
+178 
+66 
+207 
+42 
+211 
+94 
+228 
+164 
+156 
+252 
+251 
+196 
+99 
+112 
+208 
+164 
+55 
+22 
+202 
+70 
+137 
+45 
+170 
+152 
+191 
+165 
+167 
+54 
+137 
+89 
+218 
+69 
+205 
+181 
+200 
+184 
+136 
+117 
+57 
+199 
+26 
+227 
+24 
+234 
+8 
+110 
+225 
+20 
+41 
+121 
+22 
+195 
+62 
+164 
+133 
+245 
+243 
+215 
+98 
+94 
+218 
+206 
+122 
+239 
+19 
+200 
+95 
+165 
+102 
+191 
+82 
+168 
+246 
+124 
+194 
+112 
+190 
+199 
+216 
+133 
+111 
+206 
+42 
+231 
+165 
+2 
+225 
+92 
+43 
+34 
+122 
+27 
+48 
+168 
+93 
+17 
+203 
+82 
+230 
+112 
+183 
+161 
+23 
+65 
+163 
+42 
+66 
+205 
+144 
+75 
+158 
+101 
+206 
+43 
+49 
+46 
+194 
+197 
+102 
+250 
+226 
+123 
+21 
+27 
+78 
+31 
+186 
+128 
+37 
+43 
+160 
+180 
+28 
+201 
+246 
+113 
+75 
+213 
+36 
+183 
+94 
+69 
+57 
+153 
+99 
+38 
+136 
+180 
+228 
+232 
+76 
+125 
+54 
+156 
+98 
+131 
+16 
+32 
+207 
+187 
+57 
+43 
+79 
+116 
+61 
+133 
+56 
+102 
+80 
+225 
+130 
+91 
+169 
+236 
+54 
+136 
+110 
+188 
+214 
+69 
+180 
+124 
+206 
+160 
+193 
+89 
+169 
+91 
+98 
+68 
+116 
+153 
+218 
+75 
+101 
+209 
+39 
+162 
+201 
+234 
+86 
+226 
+246 
+114 
+146 
+243 
+41 
+160 
+107 
+41 
+127 
+21 
+118 
+178 
+112 
+155 
+56 
+93 
+138 
+19 
+236 
+52 
+147 
+37 
+202 
+161 
+122 
+251 
+104 
+200 
+234 
+192 
+183 
+244 
+198 
+234 
+234 
+107 
+163 
+52 
+191 
+33 
+152 
+248 
+130 
+98 
+4 
+185 
+14 
+56 
+221 
+76 
+33 
+15 
+29 
+246 
+167 
+248 
+90 
+135 
+187 
+108 
+234 
+85 
+121 
+100 
+142 
+21 
+151 
+234 
+217 
+172 
+124 
+221 
+164 
+161 
+214 
+120 
+98 
+212 
+122 
+204 
+79 
+96 
+196 
+18 
+199 
+175 
+153 
+189 
+175 
+78 
+10 
+99 
+251 
+168 
+10 
+239 
+156 
+52 
+7 
+35 
+234 
+215 
+153 
+16 
+66 
+172 
+36 
+88 
+7 
+183 
+6 
+232 
+167 
+188 
+119 
+226 
+133 
+117 
+56 
+182 
+--------------------------------------------------
+Expire
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+--------------------------------------------------
+Import
+0 
+1 
+0 
+9 
+1 
+3 
+2 
+0 
+1 
+4 
+5 
+3 
+9 
+1 
+0 
+5 
+3 
+1 
+1 
+2 
+3 
+24 
+7 
+1 
+2 
+2 
+2 
+7 
+3 
+7 
+2 
+6 
+4 
+2 
+3 
+3 
+1 
+10 
+7 
+15 
+38 
+25 
+2 
+6 
+3 
+2 
+2 
+3 
+4 
+3 
+20 
+2 
+4 
+2 
+21 
+1 
+1 
+1 
+3 
+2 
+1 
+2 
+3 
+2 
+1 
+4 
+15 
+8 
+2 
+2 
+5 
+1 
+2 
+2 
+2 
+1 
+2 
+2 
+17 
+2 
+1 
+2 
+2 
+1 
+45 
+1 
+6 
+0 
+11 
+3 
+1 
+2 
+17 
+3 
+2 
+2 
+3 
+9 
+2 
+2 
+5 
+17 
+1 
+0 
+0 
+18 
+3 
+1 
+15 
+17 
+2 
+37 
+2 
+3 
+1 
+2 
+2 
+1 
+3 
+3 
+7 
+1 
+2 
+2 
+2 
+5 
+3 
+2 
+0 
+2 
+26 
+18 
+16 
+2 
+1 
+10 
+1 
+4 
+1 
+2 
+3 
+2 
+1 
+2 
+6 
+4 
+8 
+1 
+2 
+3 
+1 
+19 
+1 
+1 
+3 
+2 
+5 
+8 
+8 
+2 
+1 
+3 
+2 
+4 
+3 
+1 
+1 
+0 
+1 
+1 
+23 
+17 
+16 
+1 
+1 
+1 
+3 
+4 
+4 
+3 
+2 
+1 
+2 
+7 
+9 
+7 
+1 
+9 
+6 
+9 
+2 
+4 
+2 
+7 
+10 
+3 
+1 
+1 
+1 
+0 
+11 
+1 
+5 
+3 
+15 
+2 
+2 
+2 
+1 
+2 
+1 
+1 
+2 
+1 
+3 
+1 
+2 
+2 
+2 
+1 
+3 
+2 
+0 
+1 
+4 
+14 
+6 
+4 
+14 
+2 
+3 
+7 
+24 
+2 
+3 
+1 
+11 
+15 
+1 
+4 
+1 
+2 
+2 
+3 
+3 
+5 
+1 
+2 
+1 
+6 
+15 
+1 
+12 
+1 
+1 
+1 
+2 
+13 
+1 
+2 
+1 
+2 
+1 
+1 
+2 
+2 
+1 
+2 
+5 
+5 
+4 
+1 
+2 
+3 
+2 
+1 
+5 
+22 
+4 
+3 
+4 
+3 
+2 
+3 
+1 
+5 
+4 
+4 
+16 
+16 
+0 
+1 
+9 
+3 
+4 
+5 
+2 
+5 
+1 
+5 
+1 
+3 
+4 
+2 
+9 
+2 
+3 
+8 
+20 
+1 
+1 
+1 
+3 
+4 
+2 
+2 
+2 
+2 
+3 
+2 
+15 
+17 
+2 
+5 
+2 
+3 
+11 
+2 
+1 
+1 
+6 
+2 
+3 
+1 
+3 
+0 
+3 
+1 
+5 
+0 
+1 
+5 
+2 
+0 
+11 
+2 
+4 
+6 
+2 
+9 
+2 
+1 
+2 
+0 
+1 
+0 
+4 
+1 
+1 
+4 
+2 
+2 
+2 
+2 
+2 

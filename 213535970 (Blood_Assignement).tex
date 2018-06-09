@@ -1,0 +1,117 @@
+\documentclass[12pt]{article}
+
+\usepackage{etoolbox}
+\usepackage{caption}
+
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage{lscape}
+\usepackage{amsmath}
+\usepackage{rotating}
+
+\usepackage{filecontents}
+\usepackage{epstopdf}
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage{fouriernc} % Use the New Century Schoolbook font
+\newcommand\tab[1][1cm]{\hspace*{#1}}%
+%\title{Metaheuristic approaches for optimizing the Blood Platelet Production and Inventory Problem }%
+%\author{Prinolan Govender\\ \small Supervisors: Dr A.O Adewumi and A.M Arasomwan}%
+
+
+
+
+\begin{document}
+\begin{titlepage} % Suppresses displaying the page number on the title page and the subsequent page counts as page 1
+
+
+
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for horizontal lines, change thickness here
+	
+	\center % Centre everything on the page
+	
+	%------------------------------------------------
+	%	Headings
+	%------------------------------------------------
+	
+	%\textsc{\LARGE University of KwaZulu Natal}\\[1.5cm] % Main heading such as the name of your university/college
+	\begin {center}
+\includegraphics[width=0.4\textwidth, center]{ukzn.png}
+\end {center}
+	\textsc{\small University of KwaZulu Natal\\ School of Mathematics, Statistics and Computer Science}\\[0.5cm] % Major heading such as course name
+	
+	%\textsc{\large Minor Heading}\\[0.5cm] % Minor heading such as course title
+	
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\HRule\\[0.4cm]
+	
+	{\huge\bfseries Metaheuristic Approaches For Optimizing The Assignment Of Blood}\\[0.4cm] % Title of your document
+	
+	\HRule\\[1.5cm]
+	
+	%------------------------------------------------
+	%	Author(s)
+	%------------------------------------------------
+	
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushleft}
+			\large
+			\textit{Author}\\
+			 \textsc{P.Govender} % Your name
+			% Your name
+
+		\end{flushleft}
+	\end{minipage}
+	~
+	\begin{minipage}{0.4\textwidth}
+		\begin{flushright}
+			\large
+			\textit{Supervisor}\\
+			Dr. A. \textsc{Ezugwu}% Supervisor's name
+
+		\end{flushright}
+
+	\end{minipage}
+	
+
+
+
+	% If you don't want a supervisor, uncomment the two lines below and comment the code above
+	%{\large\textit{Author}}\\
+	%John \textsc{Smith} % Your name
+	
+	%------------------------------------------------
+	%	Date
+	%------------------------------------------------
+	
+	% Position the date 3/4 down the remaining page
+\vfill
+\textsc{\small A thesis submitted in fulfillment of the requirements for the degree of Bachelor of Science Honours in the University of KwaZulu-Natal School of Mathematics, Statistics and Computer Science }\\
+\vfill
+	{\large\today} % Date, change the \today to a set date if you want to be precise
+	
+	%------------------------------------------------
+	%	Logo
+	%------------------------------------------------
+	%A thesis submitted in fulﬁllment of the requirementsfor the degree of Bachelor of Science Honoursin thUniversity of KwaZulu-NatalSchool of Mathematics, Statistics,and Computer Science
+	%\vfill\vfill
+	%\includegraphics[width=0.2\textwidth]{placeholder.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+	 
+	%----------------------------------------------------------------------------------------
+	
+	\vfill % Push the date up 1/4 of the remaining page
+	
+\end{titlepage}
+ \pagenumbering{arabic}
+\section{ Introduction }
+\renewcommand{\thesubsection}{1\Alph{subsection}}
+\subsubsection{Motivation}
+Blood is a vital component in humans, it is a unique substance of medical value which is comprised of various sub components (Olusanya et al) (2014) [1]. Each blood cell consists of a red blood cell (RBC) used for distrbuting oxygen throughout the body, white blood cell (WBC) used to fight off infections, platelets (PLT) aid in healing the body when injured, all of these componenets are emersed in a fluid called plasma which nourish the blood cell. Human inventory management is characterized by a series of inter-related factors which proves to be complex over time (Hesse et al) [2]. In order to manage blood inventory, policies have been established to ensure blood products reach their desired patient when needed.Complications arise when an unexpected demand for blood products occur, this can often be sudden onsets of trauma which is in need of immediate attention. The focus of this study will be placed on whole blood units (WB) and means of distributing WB units more efficiently with regards to the South African National Blood Service (SANBS). WB units are highly perishable commodities, due to its limited shelf life of 30 days, this aspect further complicates the blood assignment problem (BAP). There are two main issues which structures the BAP, the first relates to the supply of blood units at any given time, an excess supply of WB should be kept on hand in order to fulfil any emergency requests that arise. The issue with keeping an excess stock on hand relates to the aspect of expiry, 
+
+\paragraph{References}
+[1]:  Olusanya. M, Arasomwan. M, Adewumi. A, (2014) Partical swarm optimization algorithm for optimizing assignment of blood in blood banking system, South Africa, Durban, pp.2-11\\
+
+\end{document}

@@ -1,0 +1,34 @@
+[1]: Hesse. S, Coullard. C, Daskin. M, Hurter. A, (2005), A case study in platelet inventory management, Evanston, Illinois
+
+[2]: Adewumi. A, Budlender. N, Olusanya. M, (2012), Optimizing the assignment of blood in a blood banking system: Some initial results, University of KwaZulu Natal, School of Mathematics, statistics and computer science, Durban, South Africa.
+[3]: South African National Blood Service, What’s your type, http://www.sanbs.org.za, [Accessed on 17/05/2018].
+
+[4]: Olusanya. O, Arasomwan. MA, Adewumi AO, (2014), Particle swarm optimization algorithm for optimizing assignment of blood in blood banking system, University of KwaZulu Natal, School of Mathematics, statistics and computer science, Durban, South Africa.
+
+[5 NEW] Reid. M.E, Lomas-Francis. C, (2004), The blood group antigen Fac-Book, (3rd ed), Academic Press
+
+[6]: Charpin J.P.F, Adewumi. A.O, (2011), Blood Assignment, University of KwaZulu Natal, School of Mathematics, statistics and computer science, Durban, South Africa. 
+
+[7]: Igwe. K, Olusanya. M, Adewumi. A.O, (2015), On the performance of GRASP and dynamic programming for the blood assignment problem, University of KwaZulu Natal, School of Mathematics, statistics and computer science, Durban, South Africa.
+
+[8]: Sapountzis C, (1989), Allocating blood to hospitals, Pireas graduate school of industrial studies, Greece
+
+[9 NEW]: Lewis. R, (1992), Life, New York: State University of New York, C. Brown publishers
+[10]: https://www.news24.com/SouthAfrica/News/easter-road-death-toll-up-by-14-from-last-year-20180417, visited: [04-06-2018]
+[11]: http://www.schoolterms.co.za/2018.html, visited: [04-06-2018]
+
+[12]: Ragalo. A, Pillay. N, (2017), An investigation of dynamic fitness measures for genetic programming, Expert systems with applications, 52-72.
+
+[13]: Biyanto. T.R, Fibrianto H.Y, Nugroho G, Listijorini E, Budiati T, Huda H, (2016), Duelist Algorithm: An algorithm by how duelist improve their capabilities in a duel, Indonesia.
+
+[14]: Nama. S, Apu K.S, Ghosh S, (2016), Improved symbiotic organisms search algorithm for solving unconstrained function optimization, Department of Mathematics, National Institute of Technology Agartala, Tripura, India.
+
+[15]: Mirjalili S, Mirjalili S.M, Lewis. A, Grey Wolf Optimizer, (2014) School of Information and Communication Technology, Griffith University, Nathan, Brisbane, Australia and Department of Electrical Engineering, Faculty of Electrical, and Computer Engineering, Shahid Beheshti University, Tehran, Iran
+
+[16]: Shoghian. S, Maryam. K, (2012), A Comparison among Wolf Pack Search and Four other Optimization Algorithms, faculty of Electrical Engineering Control Department University of Tabriz , Iran.
+
+
+
+
+
+

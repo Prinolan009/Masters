@@ -1,0 +1,26 @@
+References
+
+[1]: Hesse. S, Coullard. C, Daskin. M, Hurter. A,(2005), A case study in platelet
+inventory management, Evanston, Illinois
+[2]: Angelis. V.De, Ricciardi. N, Storchi. G, (2000), Optimizing blood assignment in a donation- transfusion system, Italy, Roma, pp. 183-192
+[3]: Adewumi A.O, Budlender. N, Olusanya. A, (2012), Optimizing the assignment of blood in a blood banking system: Some initial results, South Africa, Durban, pp. 1-7.
+
+[4]: Olusanya. M, Arasomwan. M, Adewumi. A, (2014) Partical swarm optimization
+algorithm for optimizing assignment of blood in blood banking system, South Africa,
+Durban, pp.2-11.
+[5]: https://www.blood.co.uk/why-give-blood/how-blood-is-used/, visited: 11-04-2018, 2:55 pm
+[6]: Perumalsamy. R, Natarajan. J, (2013), Particle swarm optimization model for dynamic supply chain inventory optimization involving lead time, India , Tamilnadu, International Journal of Computational Engineering and Management Vol 16 issue 5, pp.2-6
+
+[7]: U.S Albdulwahab, (1996), Blood platelet bank inventory management: an approximate dynamic programming approach, Saudi Arabia.
+
+[8]: M.O Olusanya, A.O Adewumi, (2015), Using metaheuristic techniques to optimize the blood assignment problem, (2015), South Africa, Durban.
+
+[9]: K. Igwe, M.O Olusanya, A.O Adewumi, (2013) On the Performance of GRASP and Dynamic Programming for the Blood Assignment Problem, Durban, South Africa
+
+[10]: Pierskalla W, Cohen. M, (1974), Perishable inventory theory and its application to blood bank management, United States of America, Evanston, Technical Report
+
+[11]: J. P. F. Charpin and A. O. Adewumi, “Optimal assignment of
+blood in a blood banking System,” Tech. Rep., Mathematics in
+Industry Study Group (MISG), 2011.
+
+[12]: South African National Blood Bank Services, Blood drives, Available at: https://sanbs.org.za/blooddrives/

@@ -1,0 +1,447 @@
+package PSO;
+
+import java.util.ArrayList;
+import java.util.Random;
+
+import GeneticAlgorithm.Fitness;
+import Operators.CheckForSolutions;
+import Operators.Expiry;
+import Operators.FinalDemand;
+import Operators.FormatDisplay;
+import Operators.Pull;
+import Operators.Remainder;
+import Operators.Supply;
+
+public class PSOProcess {
+	private static ArrayList<Double> SupplyAmount=new ArrayList<Double>();
+	private static ArrayList<Double> DemandAmount=new ArrayList<Double>();
+	private static ArrayList<Double> ImportAmount=new ArrayList<Double>();
+	private static ArrayList<Double> ExpireAmount=new ArrayList<Double>();
+	private static long Stime=0;
+	private static long Etime=0;
+	private static int MAXDAY=365;
+	private static int MAXITR=1000;
+	private static double amount=5000;
+	private static double[] supply=new double[8];
+	private static int SWARMSIZE=50;
+	private static double [] Pi=new double[8];//best in iteration
+	private static double [] Pg=new double [8];//best global
+	private static double [] demand=new double [8];
+	private static double [] importation=new double [8];
+	private static double [] expiration=new double [8];
+	private static double [] Bestimportation=new double [8];
+	private static double [] Bestexpiration=new double [8];
+	private static double [] Globalimportation=new double [8];
+	private static double [] Globalexpiration=new double [8];
+	private static double [] velocity=new double [8];
+	private static double [] position=new double [8];
+	private static double [] tempArr=new double [8];
+	private static double  [] remainder=new double[8];
+	static double tempFit=0;
+	private static int NumOfSolutions=0;
+	//private static double [] particles=new double [SWARMSIZE];
+	private static ArrayList particles=new ArrayList<>();
+	private static ArrayList FitVal=new ArrayList<>();
+	
+	//double[] demand, double [] supply, double omega, double c1, double c2, double r1, double r2
+	
+	private static double [] AVGSUPPLY=new double[8];
+	private static double [] AVGDEMAND=new double[8];
+	private static double [] AVGIMPORT=new double[8];
+	private static double [] AVGEXPIRY=new double[8];
+	
+	
+	public static boolean Restrictions(double amount,double [] supply){
+		boolean flag=true;
+		
+		for(int i=0;i<supply.length;i++){
+			if(supply[i]>amount){
+				flag=false;
+			}
+		}
+		return flag;
+	}
+	
+	public static boolean setBounds(double A,double [] arr){
+		boolean flag=true;
+		double sum=0;
+		for(int i=0;i<arr.length;i++){
+			if(arr[i]==0){
+				flag=false;
+			}
+		}
+		return flag;
+	}
+	
+	public static void main(String[]args){
+		int MAXd=MAXDAY;
+		double [] supdAP=new double[MAXd]; 
+		double [] supdAN=new double[MAXd]; 
+		double [] supdBP=new double[MAXd]; 
+		double [] supdBN=new double[MAXd]; 
+		double [] supdABP=new double[MAXd]; 
+		double [] supdABN=new double[MAXd];
+		double [] supdOP=new double[MAXd]; 
+		double [] supdON=new double[MAXd]; 
+		double [] demdAP=new double[MAXd]; 
+		double [] demdAN=new double[MAXd]; 
+		double [] demdBP=new double[MAXd]; 
+		double [] demdBN=new double[MAXd]; 
+		double [] demdABP=new double[MAXd]; 
+		double [] demdABN=new double[MAXd];
+		double [] demdOP=new double[MAXd]; 
+		double [] demdON=new double[MAXd]; 
+		double [] tempVal=new double[365];
+		int expd=30;
+		Supply sup=new Supply();
+		Pull pull=new Pull();
+		Expiry exp=new Expiry();
+	
+		boolean flag=true;
+		boolean flagD=true;
+		boolean flagS=true;
+		
+		Velocity vel=new Velocity();
+		Position pos=new Position();
+		Fitness fit=new Fitness();
+		FormatDisplay format=new FormatDisplay();
+		Random rand=new Random();
+		CheckForSolutions CS=new CheckForSolutions();
+		double GlobalBest = 0;
+		double c1,c2,r1,r2;
+		double []bestITRSupply=new double[8];
+		double bestITRFitness=0;
+		c1=c2=1.7;
+		double omega=0.715;
+		double err=9999;
+		double TOLERANCE=1E-20;
+		Stime=System.currentTimeMillis();
+		
+		for(int d=0;d<MAXDAY;d++){
+			//demand=new double[8];
+			
+			System.out.println("Day: "+(d+1));
+			 FinalDemand fd=new FinalDemand();
+			 fd.setFinalDemand(amount);
+			 demand=fd.getDemand();
+			 flagD=setBounds(amount,demand);
+			 while(flagD==false){
+				 fd.setFinalDemand(amount);
+				 demand=fd.getDemand();
+				 flagD=setBounds(amount,demand);
+			 }
+		
+			if(d==0){
+				for(int t=0;t<remainder.length;t++){
+					remainder[t]=0;//setting all remainder to 0 for day 1
+				}
+			}
+			
+			/*Pg=new double[8];
+			Pi=new double[8];*/
+			/*Pi=new double[8];
+			Pg=new double[8];
+			importation=new double[8];*/
+			
+	 for(int s=0;s<SWARMSIZE;s++){
+	
+		 sup.setSupply(remainder, amount);
+		 supply=sup.getSupplyArray();
+		 		/*for(int t=0;t<8;t++){
+		 				supply[t]+=remainder[t];
+		 			}*/
+			
+		 		int itr=0;
+			while(itr<MAXITR ){
+				//importation=new double[8];
+				r1=rand.nextDouble();
+				r2=rand.nextDouble();
+				c1=1.7;
+				c2=1.7;
+				
+					if(s==0){
+						Pg=supply;
+						GlobalBest=bestITRFitness;
+						//Bestimportation=importation;
+						Bestexpiration=expiration;
+					}
+				
+				 vel.setVelocity(demand,Pi, Pg, supply, omega, c1, c2, r1, r2);
+				 velocity=vel.getVelocity();
+				 pos.setPosition(supply, velocity);
+				 position=pos.getPos();
+				/* for(int t=0;t<8;t++){
+		 				position[t]+=remainder[t];
+		 			}*/
+			pull.setPull(position, demand, remainder);
+				 for(int t=0;t<8;t++){
+						if(position[t]<demand[t] && position[t]!=demand[t]){
+						position[t]+=pull.getPull()[t];
+						}
+					};
+				 
+				 flagS=setBounds(amount,position);
+				/* for(int t=0;t<position.length;t++){
+					 position[t]+=pull.getPull()[t];
+				 }*/
+				 exp.setExpiry(MAXDAY, position, demand);
+				 expiration =exp.getExpiry();
+				
+				 CS.setSolutions(demand, position);
+				
+				if(CS.getNum()==8){
+					System.out.println("ENTERED");
+					NumOfSolutions++;
+				
+				//	d++;
+					Pg=position;
+					GlobalBest=0;
+					/*for(int p=0;p<Pg.length;p++){
+						if(Pg[p]>demand[p]){
+						remainder[p]=Pg[p]-demand[p];
+						}
+						else if (Pg[p]<demand[p]){
+							remainder[p]=0;
+						}
+					}*/
+					itr=(MAXITR-1);
+					s=SWARMSIZE-1;
+				}
+				
+				 fit.setFitness(amount, demand, position);
+				 tempFit=fit.getFitness();
+				 if(itr==0){
+					
+						Pi=position;
+						bestITRFitness=tempFit;
+						/*if(s==0){
+							Pg=Pi;
+							GlobalBest=bestITRFitness;
+							Bestimportation=importation;
+							Bestexpiration=expiration;
+						}
+					*/
+					}//ends if itr==0
+				 
+				 if(tempFit<bestITRFitness){
+					 //replace local best 
+					Pi=position;
+					bestITRFitness=tempFit;
+					//Bestimportation=importation;
+					Bestexpiration=expiration;
+				 }
+		
+				
+				itr++;
+			}//ends iteration
+			
+			if(bestITRFitness<GlobalBest){
+			//replace global best
+				Pg=Pi;
+				GlobalBest=bestITRFitness;
+				//Globalimportation=Bestimportation;
+				Globalexpiration=Bestexpiration;
+				
+			}
+			
+	}//ends swarm
+	 for(int p=0;p<Pg.length;p++){
+			if(Pg[p]<demand[p]){
+				Globalimportation[p]=demand[p]-Pg[p];
+			}
+			else{
+				Globalimportation[p]=0;
+			}
+		}
+
+	// expiry=new double[8];
+		supdAP[d]=Pg[0];
+		supdAN[d]=Pg[1];
+		supdBP[d]=Pg[2];
+		supdBN[d]=Pg[3];
+		supdABP[d]=Pg[4];
+		supdABN[d]=Pg[5];
+		supdOP[d]=Pg[6];
+		supdON[d]=Pg[7];
+		
+	   
+	    if(d>1){
+	    for(int t=0;t<2;t++){
+	    tempVal[d]+= tempVal[d-t]+demand[0];
+	    }
+}
+	    System.out.println(tempVal[d]);
+	  
+	    demdAN[d]=demand[1];
+		//if(bestImport[2]==0)
+		demdBP[d]=demand[2];
+		//if(bestImport[3]==0)
+		demdBN[d]=demand[3];
+		//if(bestImport[4]==0)
+		demdABP[d]=demand[4];
+		//if(bestImport[5]==0)
+		demdABN[d]=demand[5];
+		//if(bestImport[6]==0)
+		demdOP[d]=demand[6];
+		//if(bestImport[7]==0)
+		demdON[d]=demand[7];
+	
+	//	format.display(demand, null, Pg, null, importation, exp.getExpiry(), FinalFitness);
+		
+		int count=0;
+		double cumAP=0;
+		double cumAN=0;
+		double cumBP=0;
+		double cumBN=0;
+		double cumABP=0;
+		double cumABN=0;
+		double cumOP=0;
+		double cumON=0;
+	
+		double sumAP=0;
+		double sumAN=0;
+		double sumBP=0;
+		double sumBN=0;
+		double sumABP=0;
+		double sumABN=0;
+		double sumOP=0;
+		double sumON=0;
+		if(d==(MAXd-1)){
+			
+			for(int t=0;t<MAXd;t++){
+				cumAP=0;
+				cumAN=0;
+				 cumBP=0;
+				 cumBN=0;
+				 cumABP=0;
+				 cumABN=0;
+				 cumOP=0;
+				 cumON=0;
+				 sumAP=0;
+					sumAN=0;
+					 sumBP=0;
+					 sumBN=0;
+					 sumABP=0;
+					 sumABN=0;
+					 sumOP=0;
+					 sumON=0;
+				if(t==0){ExpireAmount.add((double) 0);}
+				
+				if(t<(MAXd-expd)){
+					
+					for(int j=t;j<=t+expd;j++){
+						 cumAP+=demdAP[j];
+						 cumAN+=demdAN[j];
+						 cumBP+=demdBP[j];
+						 cumBN+=demdBN[j];
+						 cumABP+=demdABP[j];
+						 cumABN+=demdABN[j];
+						 cumOP+=demdOP[j];
+						 cumON+=demdON[j];
+						if(j==((t+expd)-1)){
+							
+							if(supdAP[t]>cumAP ){
+								//ExpireAmount.add(+(double) Math.round(supdBP[t]-cumBP)+(double) Math.round(supdBN[t]-cumBN)+(double) Math.round(supdABP[t]-cumABP)+(double) Math.round(supdOP[t]-cumOP)+(double) Math.round(supdON[t]-cumON));
+								sumAP=(double) Math.round(supdAP[t]-cumAP);
+							}
+							if(supdAN[t]>cumAN){
+								sumAN=(double) Math.round(supdAN[t]-cumAN);
+							}
+							if(supdBP[t]>cumBP){
+								sumBP=(double) Math.round(supdBP[t]-cumBP);
+							}
+							if(supdBN[t]>cumBN){
+								sumBN=(double) Math.round(supdBN[t]-cumBN);
+							}
+							if(supdABP[t]>cumABP){
+								sumABP=(double) Math.round(supdABP[t]-cumABP);
+							}
+							if(supdABN[t]>cumABN){
+								sumABN=(double) Math.round(supdABN[t]-cumABN);
+							}
+							if(supdOP[t]>cumOP){
+								sumOP=(double) Math.round(supdOP[t]-cumOP);
+							}
+							if(supdON[t]>cumON){
+								sumON=(double) Math.round(supdON[t]-cumON);
+							}
+							
+							if((sumAP+sumAN+sumBP+sumBN+sumABP+sumABN+sumOP+sumON)>=0){
+								ExpireAmount.add(sumAP+sumAN+sumBP+sumBN+sumABP+sumABN+sumOP+sumON);
+							}
+							else{
+								ExpireAmount.add((double) 0);
+							}
+						}//ends if 
+					}//ends j for loop
+				}//ends outer if
+				
+				if(t>(MAXd-expd)){
+					//System.out.println("ddd");
+					ExpireAmount.add((double) 0);
+				}
+			}//ends t loop
+		}
+		format.display(demand, null, Pg, null, Globalimportation, Globalexpiration, GlobalBest);
+		
+	//	remainder=new double[8];
+		for(int p=0;p<Pg.length;p++){
+			if(Pg[p]>demand[p]){
+			remainder[p]=Pg[p]-demand[p];
+			}
+			else if (Pg[p]<demand[p]){
+				remainder[p]=0;
+			}
+		}
+	
+		for(int t=0;t<8;t++){
+			AVGSUPPLY[t]+=Pg[t];
+			AVGDEMAND[t]+=demand[t];
+			AVGIMPORT[t]+=Globalimportation[t];
+			AVGEXPIRY[t]+=Globalexpiration[t];
+		}
+		double SSum=0;
+		double DSum=0;
+		double ESum=0;
+		double ISum=0;
+		for(int t=0;t<8;t++){
+			SSum+=Pg[t];
+			DSum+=demand[t];
+			ESum+=Globalexpiration[t];
+			ISum+=Globalimportation[t];
+		}
+		SupplyAmount.add(SSum);
+		DemandAmount.add(DSum);
+		ExpireAmount.add(ESum);
+		ImportAmount.add(ISum);
+		Globalexpiration=new double[8];
+}//ends days
+		format.formatAverage(MAXDAY, AVGDEMAND, AVGSUPPLY, AVGIMPORT, AVGEXPIRY);
+		System.out.println("");
+		Etime=System.currentTimeMillis();
+		System.out.println("Number of Solutions: "+NumOfSolutions);
+		System.out.println("Time: "+(Etime-Stime));
+		System.out.println("");
+		System.out.println("Supply");
+		for(int t=0;t<SupplyAmount.size();t++){
+			System.out.println(Math.round(SupplyAmount.get(t))+" ");
+		}
+		System.out.println("--------------------------------------------------");
+		System.out.println("Demand");
+		for(int t=0;t<DemandAmount.size();t++){
+			System.out.println(Math.round(DemandAmount.get(t))+" ");
+		}
+		System.out.println("--------------------------------------------------");
+		System.out.println("Expire");
+		for(int t=0;t<ExpireAmount.size();t++){
+			System.out.println(Math.round(ExpireAmount.get(t))+" ");
+		}
+		System.out.println("--------------------------------------------------");
+		System.out.println("Import");
+		for(int t=0;t<ImportAmount.size();t++){
+			System.out.println(Math.round(ImportAmount.get(t))+" ");
+		}
+	}
+	
+
+}

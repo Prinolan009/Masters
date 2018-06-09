@@ -1,0 +1,4397 @@
+Day: 1
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 103	16	39	6	10	3	126	23	
+Supply: 77	24	69	7	5	4	102	39	
+Import: 27	0	0	0	4	0	24	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.425649263556352E-6
+
+Day: 2
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 99	16	37	6	9	3	121	22	
+Supply: 86	16	37	20	1	5	125	22	
+Import: 13	0	0	0	8	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5723579083442018E-7
+
+Day: 3
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 332	52	125	21	31	10	405	73	
+Supply: 91	102	204	37	17	11	443	143	
+Import: 241	0	0	0	14	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.973548265617865E-6
+
+Day: 4
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 672	105	252	42	63	21	819	147	
+Supply: 5	128	600	344	4	51	822	165	
+Import: 667	0	0	0	59	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0792897147348413E-5
+
+Day: 5
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 699	109	262	44	66	22	852	153	
+Supply: 234	112	298	52	33	26	1094	356	
+Import: 465	0	0	0	32	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.1552889126032824E-6
+
+Day: 6
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 490	77	184	31	46	15	597	107	
+Supply: 554	86	309	99	170	31	162	135	
+Import: 0	0	0	0	0	0	435	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0508507213216945E-5
+
+Day: 7
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 237	37	89	15	22	7	289	52	
+Supply: 237	52	89	16	51	13	293	69	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.014147119486444875
+
+Day: 8
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 227	36	85	14	21	7	277	50	
+Supply: 300	64	121	48	18	73	59	34	
+Import: 0	0	0	0	3	0	218	16	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.232818001379201E-7
+
+Day: 9
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 60	9	22	4	6	2	73	13	
+Supply: 0	10	23	8	0	64	73	13	
+Import: 60	0	0	0	6	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.3509160441304286E-4
+
+Day: 10
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 466	73	175	29	44	15	568	102	
+Supply: 575	346	298	37	58	19	4	136	
+Import: 0	0	0	0	0	0	565	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.0813233269564078E-6
+
+Day: 11
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 652	102	245	41	61	20	795	143	
+Supply: 387	122	248	252	11	23	823	192	
+Import: 265	0	0	0	50	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.330603014757799E-5
+
+Day: 12
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 151	24	57	9	14	5	184	33	
+Supply: 162	26	1	13	29	1	187	60	
+Import: 0	0	56	0	0	4	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.7606603652639023E-7
+
+Day: 13
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 358	56	134	22	34	11	436	78	
+Supply: 260	107	155	28	7	21	452	98	
+Import: 98	0	0	0	26	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.105268117948071E-6
+
+Day: 14
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 219	34	82	14	21	7	268	48	
+Supply: 310	23	18	23	43	10	176	90	
+Import: 0	11	65	0	0	0	91	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.417915320023894E-7
+
+Day: 15
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 520	81	195	33	49	16	634	114	
+Supply: 375	86	226	38	6	111	649	150	
+Import: 145	0	0	0	42	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.4362737374522114E-6
+
+Day: 16
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 796	124	299	50	75	25	970	174	
+Supply: 496	176	323	58	7	95	1137	221	
+Import: 300	0	0	0	68	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2988340757510742E-5
+
+Day: 17
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 286	45	107	18	27	9	348	62	
+Supply: 16	111	119	34	7	55	485	74	
+Import: 270	0	0	0	20	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.9807087507615505E-6
+
+Day: 18
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 728	114	273	45	68	23	887	159	
+Supply: 623	115	277	90	16	52	823	301	
+Import: 104	0	0	0	52	0	64	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.9815455755633593E-5
+
+Day: 19
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 473	74	177	30	44	15	576	103	
+Supply: 522	182	152	69	39	22	348	159	
+Import: 0	0	26	0	6	0	228	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.8598776398830526E-5
+
+Day: 20
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 287	45	108	18	27	9	350	63	
+Supply: 30	69	116	42	3	11	524	110	
+Import: 257	0	0	0	24	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.343220234455657E-7
+
+Day: 21
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 625	98	234	39	59	20	762	137	
+Supply: 724	131	422	236	27	21	268	144	
+Import: 0	0	0	0	31	0	494	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.762309514176195E-5
+
+Day: 22
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 760	119	285	48	71	24	927	166	
+Supply: 38	122	422	343	20	0	992	461	
+Import: 722	0	0	0	51	23	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.70265444814504E-6
+
+Day: 23
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 790	123	296	49	74	25	963	173	
+Supply: 508	78	321	68	12	16	1253	237	
+Import: 282	45	0	0	62	9	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.565280383487334E-5
+
+Day: 24
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 380	59	142	24	36	12	463	83	
+Supply: 63	103	19	73	43	9	721	168	
+Import: 316	0	124	0	0	3	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2573935849559347E-6
+
+Day: 25
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 476	74	179	30	45	15	581	104	
+Supply: 482	287	375	83	1	19	136	120	
+Import: 0	0	0	0	44	0	445	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0603799865793916E-5
+
+Day: 26
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 291	46	109	18	27	9	355	64	
+Supply: 1	60	1	455	2	0	358	66	
+Import: 291	0	109	0	25	9	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.004269032881839871
+
+Day: 27
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 30	5	11	2	3	1	37	7	
+Supply: 30	9	5	3	2	1	38	7	
+Import: 0	0	6	0	1	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.251662628793838E-8
+
+Day: 28
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 682	107	256	43	64	21	832	149	
+Supply: 685	113	277	47	21	22	835	152	
+Import: 0	0	0	0	43	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.458570643597341E-7
+
+Day: 29
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 433	68	162	27	41	14	528	95	
+Supply: 191	74	35	40	54	8	658	307	
+Import: 242	0	127	0	0	5	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.9727474028322832E-5
+
+Day: 30
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 303	47	114	19	28	9	369	66	
+Supply: 388	58	116	35	6	66	161	126	
+Import: 0	0	0	0	22	0	208	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 9.588528773656434E-6
+
+Day: 31
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 528	83	198	33	50	17	644	116	
+Supply: 99	157	123	279	11	25	773	201	
+Import: 429	0	75	0	39	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.6585461402864895E-7
+
+Day: 32
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 286	45	107	18	27	9	349	63	
+Supply: 339	87	142	19	8	12	226	70	
+Import: 0	0	0	0	19	0	123	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.1598873124712556E-6
+
+Day: 33
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 110	17	41	7	10	3	135	24	
+Supply: 2	61	1	57	1	2	180	45	
+Import: 108	0	40	0	10	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.624279189083154E-5
+
+Day: 34
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 499	78	187	31	47	16	608	109	
+Supply: 90	174	154	184	22	155	633	163	
+Import: 409	0	33	0	25	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.100954646757601E-5
+
+Day: 35
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 661	103	248	41	62	21	805	145	
+Supply: 535	234	201	68	12	143	651	242	
+Import: 126	0	47	0	50	0	154	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.3499904480213445E-4
+
+Day: 36
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 328	51	123	20	31	10	399	72	
+Supply: 201	291	102	104	12	80	42	203	
+Import: 127	0	21	0	19	0	357	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.532355373478822E-5
+
+Day: 37
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 495	77	186	31	46	15	603	108	
+Supply: 300	321	31	596	26	18	95	176	
+Import: 195	0	155	0	21	0	508	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0921960034420409E-5
+
+Day: 38
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 751	117	281	47	70	23	915	164	
+Supply: 752	125	282	63	25	30	916	175	
+Import: 0	0	0	0	45	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.122989938081446E-6
+
+Day: 39
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 449	70	168	28	42	14	547	98	
+Supply: 343	70	169	46	23	5	595	166	
+Import: 106	0	0	0	19	9	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.3768960244306073E-6
+
+Day: 40
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 112	18	42	7	11	4	137	25	
+Supply: 120	2	7	35	1	0	4	186	
+Import: 0	16	35	0	10	3	132	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.7963909229347336E-6
+
+Day: 41
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 709	111	266	44	66	22	864	155	
+Supply: 597	201	236	32	2	21	898	252	
+Import: 112	0	30	13	64	1	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.5049583486352276E-4
+
+Day: 42
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 114	18	43	7	11	4	139	25	
+Supply: 136	9	68	5	21	6	111	4	
+Import: 0	8	0	2	0	0	28	21	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.7715932946289285E-6
+
+Day: 43
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 49	8	18	3	5	2	60	11	
+Supply: 34	9	20	12	1	11	60	12	
+Import: 15	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.866215000712771E-4
+
+Day: 44
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 169	26	63	11	16	5	206	37	
+Supply: 333	31	69	22	1	7	32	39	
+Import: 0	0	0	0	15	0	174	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.2304836109233293E-6
+
+Day: 45
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 331	52	124	21	31	10	404	73	
+Supply: 14	225	135	22	1	18	513	118	
+Import: 318	0	0	0	30	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.9752568982767118E-6
+
+Day: 46
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 309	48	116	19	29	10	376	68	
+Supply: 459	237	136	29	2	19	25	69	
+Import: 0	0	0	0	27	0	351	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.140003147992502E-6
+
+Day: 47
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 514	80	193	32	48	16	626	112	
+Supply: 131	97	261	43	3	30	742	315	
+Import: 383	0	0	0	45	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.2382636527117937E-5
+
+Day: 48
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 163	26	61	10	15	5	199	36	
+Supply: 34	30	57	35	1	9	290	59	
+Import: 129	0	5	0	14	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.511163793227297E-5
+
+Day: 49
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 652	102	244	41	61	20	795	143	
+Supply: 595	147	221	78	5	30	798	184	
+Import: 57	0	24	0	56	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4540273883721966E-4
+
+Day: 50
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 227	35	85	14	21	7	277	50	
+Supply: 353	40	89	24	11	9	105	85	
+Import: 0	0	0	0	10	0	172	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.3106517632859323E-7
+
+Day: 51
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 471	74	176	29	44	15	574	103	
+Supply: 129	355	101	37	25	0	574	265	
+Import: 342	0	76	0	19	14	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.22272141135727E-5
+
+Day: 52
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 152	24	57	10	14	5	185	33	
+Supply: 38	213	143	14	1	7	16	47	
+Import: 114	0	0	0	13	0	169	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.4855580996254504E-6
+
+Day: 53
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 73	11	28	5	7	2	90	16	
+Supply: 49	8	21	16	5	2	114	17	
+Import: 24	4	7	0	2	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.488752950131925E-5
+
+Day: 54
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 347	54	130	22	33	11	423	76	
+Supply: 49	67	214	39	46	20	522	139	
+Import: 298	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.970114933665172E-7
+
+Day: 55
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 655	102	245	41	61	20	798	143	
+Supply: 108	300	254	89	1	32	945	336	
+Import: 546	0	0	0	60	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.0285399822987529E-5
+
+Day: 56
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 309	48	116	19	29	10	376	68	
+Supply: 407	76	164	22	5	52	122	127	
+Import: 0	0	0	0	24	0	254	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.319050549699569E-6
+
+Day: 57
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 82	13	31	5	8	3	100	18	
+Supply: 11	15	35	26	2	31	117	22	
+Import: 71	0	0	0	6	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.9058951701472326E-6
+
+Day: 58
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 84	13	31	5	8	3	102	18	
+Supply: 19	28	40	44	4	2	103	24	
+Import: 64	0	0	0	4	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.0954129675601505E-6
+
+Day: 59
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 168	26	63	10	16	5	204	37	
+Supply: 296	26	57	19	2	5	66	59	
+Import: 0	0	6	0	14	0	138	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.967136881987245E-7
+
+Day: 60
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 760	119	285	48	71	24	927	166	
+Supply: 800	186	175	29	17	16	982	197	
+Import: 0	0	110	18	54	8	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.9294449475455623E-4
+
+Day: 61
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 245	38	92	15	23	8	299	54	
+Supply: 309	73	92	41	29	0	166	64	
+Import: 0	0	0	0	0	7	133	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2512826038050662E-5
+
+Day: 62
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 123	19	46	8	11	4	149	27	
+Supply: 36	35	70	8	5	9	188	36	
+Import: 86	0	0	0	6	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.3802226864472686E-6
+
+Day: 63
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 746	117	280	47	70	23	909	163	
+Supply: 530	148	376	47	5	45	916	288	
+Import: 216	0	0	0	65	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.3783387026887794E-5
+
+Day: 64
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 209	33	78	13	20	7	254	46	
+Supply: 31	50	131	84	3	14	268	79	
+Import: 178	0	0	0	17	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2540492173229723E-7
+
+Day: 65
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 609	95	228	38	57	19	742	133	
+Supply: 91	144	443	229	33	41	760	181	
+Import: 518	0	0	0	24	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.7915832199341824E-6
+
+Day: 66
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 507	79	190	32	47	16	617	111	
+Supply: 52	206	204	190	3	28	712	205	
+Import: 455	0	0	0	45	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.809010390545154E-7
+
+Day: 67
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 535	84	200	33	50	17	651	117	
+Supply: 376	248	206	36	14	26	659	121	
+Import: 158	0	0	0	36	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.4902659344179485E-5
+
+Day: 68
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 633	99	237	40	59	20	771	138	
+Supply: 607	124	244	43	20	21	758	181	
+Import: 26	0	0	0	40	0	14	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.463651780155487E-5
+
+Day: 69
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 605	94	227	38	57	19	737	132	
+Supply: 576	95	236	73	13	22	731	162	
+Import: 29	0	0	0	44	0	6	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.9509100029808906E-4
+
+Day: 70
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 453	71	170	28	42	14	552	99	
+Supply: 10	112	212	353	5	15	555	166	
+Import: 443	0	0	0	37	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 8.017881115301862E-6
+
+Day: 71
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 560	88	210	35	53	18	683	123	
+Supply: 53	19	212	88	29	14	1048	304	
+Import: 507	68	0	0	23	4	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.404352495976127E-6
+
+Day: 72
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 662	103	248	41	62	21	807	145	
+Supply: 665	103	256	51	21	21	816	156	
+Import: 0	0	0	0	41	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.281267448004655E-6
+
+Day: 73
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 40	6	15	2	4	1	48	9	
+Supply: 9	7	22	17	3	1	54	11	
+Import: 31	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.5925207492056186E-6
+
+Day: 74
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 429	67	161	27	40	13	523	94	
+Supply: 21	70	277	178	2	18	523	264	
+Import: 408	0	0	0	38	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.7066454416180932E-6
+
+Day: 75
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 180	28	67	11	17	6	219	39	
+Supply: 40	30	70	52	2	8	231	134	
+Import: 140	0	0	0	15	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 3.755531248521038E-6
+
+Day: 76
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 439	69	165	27	41	14	535	96	
+Supply: 278	69	188	67	35	18	548	182	
+Import: 161	0	0	0	6	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5236250498492154E-5
+
+Day: 77
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 330	52	124	21	31	10	402	72	
+Supply: 141	73	172	36	35	9	458	116	
+Import: 189	0	0	0	0	2	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.6442091137123495E-6
+
+Day: 78
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 641	100	240	40	60	20	781	140	
+Supply: 107	180	459	185	25	80	783	204	
+Import: 534	0	0	0	35	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.8810617042472585E-5
+
+Day: 79
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 500	78	187	31	47	16	609	109	
+Supply: 5	83	6	345	1	28	708	402	
+Import: 495	0	181	0	46	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.7447133969517382E-5
+
+Day: 80
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 235	37	88	15	22	7	287	51	
+Supply: 303	75	126	20	5	144	12	57	
+Import: 0	0	0	0	17	0	275	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.41475790489676E-6
+
+Day: 81
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 372	58	140	23	35	12	454	81	
+Supply: 2	97	289	67	11	118	488	102	
+Import: 370	0	0	0	24	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1670537641384726E-5
+
+Day: 82
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 131	20	49	8	12	4	159	29	
+Supply: 6	176	13	10	0	89	160	130	
+Import: 125	0	36	0	12	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 0.034172034644227814
+
+Day: 83
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 469	73	176	29	44	15	572	103	
+Supply: 389	245	155	59	13	33	401	187	
+Import: 81	0	21	0	31	0	171	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.3409921566972116E-5
+
+Day: 84
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 567	89	212	35	53	18	691	124	
+Supply: 71	740	434	55	31	35	16	407	
+Import: 496	0	0	0	22	0	674	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.2393858762288802E-4
+
+Day: 85
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 245	38	92	15	23	8	298	54	
+Supply: 21	51	118	15	6	9	303	249	
+Import: 224	0	0	0	17	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.2666453065107816E-5
+
+Day: 86
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 346	54	130	22	32	11	422	76	
+Supply: 139	5	118	40	3	15	684	88	
+Import: 207	49	12	0	30	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 2.039380835094562E-6
+
+Day: 87
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 400	63	150	25	38	13	488	88	
+Supply: 29	263	142	34	20	21	350	404	
+Import: 371	0	8	0	17	0	138	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 5.8437746969502765E-6
+
+Day: 88
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 125	20	47	8	12	4	152	27	
+Supply: 127	51	51	18	2	5	73	68	
+Import: 0	0	0	0	10	0	80	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 7.481694000261996E-8
+
+Day: 89
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 109	17	41	7	10	3	132	24	
+Supply: 127	11	37	9	12	1	100	46	
+Import: 0	6	4	0	0	2	32	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 4.703561870883277E-7
+
+Day: 90
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 786	123	295	49	74	25	958	172	
+Supply: 745	179	256	53	17	31	928	271	
+Import: 41	0	38	0	57	0	30	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.5088156824022008E-4
+
+Day: 91
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 589	92	221	37	55	18	717	129	
+Supply: 715	312	321	99	10	25	152	224	
+Import: 0	0	0	0	45	0	565	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 1.1917456422361284E-5
+
+Day: 92
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 300	47	112	19	28	9	365	66	
+Supply: 22	72	10	205	3	12	416	206	
+Import: 277	0	102	0	25	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: 6.233978225350257E-6
+
+Day: 93
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 1	0	0	0	0	0	1	0	
+Supply: 552	86	207	35	52	19	673	121	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: Infinity
+
+Day: 94
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 81	13	30	5	8	3	99	18	
+Supply: 1198	101	449	40	113	39	788	141	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 95
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 370	58	139	23	35	12	451	81	
+Supply: 1881	119	706	48	177	60	932	167	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 96
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 420	66	158	26	39	13	512	92	
+Supply: 1552	6	582	3	146	49	50	9	
+Import: 0	60	0	23	0	0	462	83	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 97
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 592	92	222	37	55	18	721	129	
+Supply: 1344	33	503	13	127	43	258	46	
+Import: 0	59	0	24	0	0	463	83	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 98
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 119	19	45	7	11	4	145	26	
+Supply: 1372	97	514	39	130	44	756	136	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 99
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 196	31	73	12	18	6	239	43	
+Supply: 1843	92	690	37	174	58	719	129	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 100
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 540	84	203	34	51	17	658	118	
+Supply: 2300	102	862	41	217	72	795	143	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 101
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 612	96	229	38	57	19	746	134	
+Supply: 2142	60	802	24	202	67	465	84	
+Import: 0	36	0	14	0	0	281	50	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 102
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 257	40	96	16	24	8	313	56	
+Supply: 2014	76	755	30	190	63	590	106	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 103
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 238	37	89	15	22	7	290	52	
+Supply: 2359	94	885	38	222	74	733	132	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 104
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 348	54	130	22	33	11	424	76	
+Supply: 2865	116	1075	47	270	90	907	163	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 105
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 47	7	18	3	4	1	57	10	
+Supply: 2669	24	1002	10	251	84	186	33	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 106
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 551	86	207	34	52	17	671	121	
+Supply: 3334	111	1251	45	314	105	868	156	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 107
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 704	110	264	44	66	22	857	154	
+Supply: 3466	107	1300	43	326	109	832	149	
+Import: 0	3	0	1	0	0	25	5	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 108
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 204	32	77	13	19	6	249	45	
+Supply: 3393	99	1273	39	319	107	769	138	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 109
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 324	51	122	20	30	10	395	71	
+Supply: 3237	7	1214	3	304	102	58	10	
+Import: 0	44	0	17	0	0	337	61	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 110
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 604	94	226	38	57	19	736	132	
+Supply: 3152	37	1182	15	296	99	291	52	
+Import: 0	57	0	23	0	0	445	80	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 111
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 759	119	285	47	71	24	925	166	
+Supply: 2802	40	1051	16	263	88	310	56	
+Import: 0	79	0	31	0	0	615	110	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 112
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 538	84	202	34	50	17	655	118	
+Supply: 2701	103	1013	41	254	85	802	144	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 113
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 475	74	178	30	44	15	578	104	
+Supply: 2354	30	882	12	222	74	232	42	
+Import: 0	44	0	18	0	0	346	62	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 114
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 750	117	281	47	70	23	915	164	
+Supply: 2402	82	900	33	227	75	638	114	
+Import: 0	35	0	14	0	0	277	50	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 115
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 165	26	62	10	15	5	201	36	
+Supply: 1772	19	664	8	168	56	147	26	
+Import: 0	7	0	2	0	0	54	10	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 116
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 88	14	33	6	8	3	107	19	
+Supply: 1792	29	671	12	170	57	225	40	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 117
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 554	87	208	35	52	17	675	121	
+Supply: 2280	90	854	36	216	72	702	126	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 118
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 381	60	143	24	36	12	465	83	
+Supply: 2398	105	898	42	227	76	819	147	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 119
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	80	14	
+Supply: 2437	66	913	26	230	77	512	92	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 120
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 632	99	237	39	59	20	770	138	
+Supply: 2462	14	922	6	233	78	111	20	
+Import: 0	85	0	33	0	0	659	118	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 121
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 557	87	209	35	52	17	679	122	
+Supply: 2031	31	760	13	193	64	245	44	
+Import: 0	56	0	22	0	0	434	78	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 122
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 467	73	175	29	44	15	569	102	
+Supply: 1641	26	614	10	157	52	204	37	
+Import: 0	47	0	19	0	0	365	65	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 123
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 574	90	215	36	54	18	700	126	
+Supply: 1706	83	639	33	163	54	649	116	
+Import: 0	7	0	3	0	0	51	10	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 124
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 457	71	172	29	43	14	557	100	
+Supply: 1688	87	633	35	161	53	678	122	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 125
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 264	41	99	16	25	8	321	58	
+Supply: 1466	37	549	15	140	46	287	51	
+Import: 0	4	0	1	0	0	34	7	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 126
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 495	77	186	31	46	15	603	108	
+Supply: 1712	80	641	32	163	54	621	112	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 127
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 570	89	214	36	53	18	695	125	
+Supply: 1337	19	500	8	128	43	146	26	
+Import: 0	70	0	28	0	0	549	99	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 128
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 685	107	257	43	64	21	835	150	
+Supply: 959	30	358	12	93	31	234	42	
+Import: 0	77	0	31	0	0	601	108	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 129
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 561	88	210	35	53	18	683	123	
+Supply: 361	14	134	5	37	13	106	19	
+Import: 200	74	76	30	16	5	577	104	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 130
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 563	88	211	35	53	18	687	123	
+Supply: 37	6	14	2	4	1	46	8	
+Import: 526	82	197	33	49	17	641	115	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 131
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 750	117	281	47	70	23	914	164	
+Supply: 169	26	63	11	16	5	205	37	
+Import: 581	91	218	36	54	18	709	127	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 132
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 177	28	66	11	17	6	215	39	
+Supply: 782	122	293	49	73	24	953	171	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 133
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 119	19	45	7	11	4	145	26	
+Supply: 1218	96	457	38	113	37	747	134	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 134
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 413	65	155	26	39	13	504	90	
+Supply: 1525	67	572	27	142	46	520	93	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 135
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 266	41	100	17	25	8	324	58	
+Supply: 1473	56	552	23	137	44	440	79	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 136
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 509	80	191	32	48	16	620	111	
+Supply: 1603	62	600	25	149	48	482	87	
+Import: 0	18	0	7	0	0	138	24	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 137
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 99	15	37	6	9	3	121	22	
+Supply: 1609	80	602	32	149	48	628	113	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 138
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 487	76	182	30	46	15	593	106	
+Supply: 1839	51	688	21	171	55	400	72	
+Import: 0	25	0	9	0	0	193	34	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 139
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 615	96	231	38	58	19	750	135	
+Supply: 1407	9	526	3	130	42	67	12	
+Import: 0	87	0	35	0	0	683	123	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 140
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 101	16	38	6	9	3	123	22	
+Supply: 1277	76	477	30	117	38	591	106	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 141
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 569	89	213	36	53	18	693	124	
+Supply: 1622	70	606	28	150	49	544	98	
+Import: 0	19	0	8	0	0	149	26	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 142
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 717	112	269	45	67	22	874	157	
+Supply: 1313	41	490	16	121	39	317	57	
+Import: 0	71	0	29	0	0	557	100	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 143
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 392	61	147	24	37	12	477	86	
+Supply: 996	63	371	25	92	30	488	88	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 144
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 105	16	39	7	10	3	128	23	
+Supply: 638	5	237	2	58	19	42	8	
+Import: 0	11	0	5	0	0	86	15	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 145
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 470	73	176	29	44	15	573	103	
+Supply: 658	19	245	8	60	20	152	27	
+Import: 0	54	0	21	0	0	421	76	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 146
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 61	10	23	4	6	2	75	13	
+Supply: 977	123	365	49	90	30	962	173	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 147
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 192	30	72	12	18	6	234	42	
+Supply: 1594	106	596	42	148	49	826	148	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 148
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 184	29	69	12	17	6	224	40	
+Supply: 1406	1	525	0	130	43	5	1	
+Import: 0	28	0	12	0	0	219	39	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 149
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 514	80	193	32	48	16	627	113	
+Supply: 1439	34	538	14	133	44	265	48	
+Import: 0	46	0	18	0	0	362	65	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 150
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 402	63	151	25	38	13	490	88	
+Supply: 1310	60	489	24	121	40	469	84	
+Import: 0	3	0	1	0	0	21	4	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 151
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 521	81	195	33	49	16	635	114	
+Supply: 1050	22	391	9	96	31	173	31	
+Import: 0	59	0	24	0	0	462	83	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 152
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 470	73	176	29	44	15	573	103	
+Supply: 1116	92	416	37	102	33	715	128	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 153
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 182	28	68	11	17	6	222	40	
+Supply: 1346	109	503	44	124	40	853	153	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 154
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 257	40	96	16	24	8	313	56	
+Supply: 1638	74	613	30	151	49	578	104	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 155
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 247	39	93	15	23	8	301	54	
+Supply: 1949	89	730	35	180	59	692	124	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 156
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 119	19	45	7	11	4	145	26	
+Supply: 2487	123	931	49	231	76	957	172	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 157
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 296	46	111	18	28	9	361	65	
+Supply: 2854	76	1068	30	266	87	593	106	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 158
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 451	70	169	28	42	14	549	99	
+Supply: 2663	16	996	7	248	81	128	23	
+Import: 0	54	0	21	0	0	421	76	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 159
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 763	119	286	48	72	24	930	167	
+Supply: 2885	105	1079	42	269	88	821	147	
+Import: 0	14	0	6	0	0	109	20	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 160
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 191	30	72	12	18	6	233	42	
+Supply: 2395	43	896	17	223	73	333	60	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 161
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 45	7	17	3	4	1	55	10	
+Supply: 2834	98	1060	39	264	87	768	138	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 162
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 334	52	125	21	31	10	407	73	
+Supply: 3223	68	1206	27	301	100	529	95	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 163
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 165	26	62	10	15	5	201	36	
+Supply: 3388	78	1268	31	317	106	608	109	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 164
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 479	75	180	30	45	15	584	105	
+Supply: 3655	67	1368	27	342	114	526	94	
+Import: 0	8	0	3	0	0	58	11	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 165
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 296	46	111	18	28	9	361	65	
+Supply: 3740	88	1400	35	350	117	688	123	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 166
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 379	59	142	24	36	12	462	83	
+Supply: 3691	39	1381	15	345	116	301	54	
+Import: 0	20	0	9	0	0	161	29	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 167
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 633	99	237	40	59	20	771	138	
+Supply: 3956	101	1480	40	369	124	784	141	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 168
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 174	27	65	11	16	5	212	38	
+Supply: 3645	50	1364	20	340	114	392	70	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 169
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 264	41	99	17	25	8	322	58	
+Supply: 3473	0	1300	0	324	109	3	1	
+Import: 0	41	0	17	0	0	319	57	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 170
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 778	122	292	49	73	24	949	170	
+Supply: 3711	78	1389	31	346	117	612	110	
+Import: 0	44	0	18	0	0	337	60	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 171
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 267	42	100	17	25	8	326	58	
+Supply: 3459	82	1294	33	322	109	641	115	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 172
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 0	0	0	0	0	0	0	0	
+Supply: 3893	109	1457	44	363	123	854	153	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 173
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 720	113	270	45	68	23	878	158	
+Supply: 4510	96	1688	39	421	142	752	135	
+Import: 0	17	0	6	0	0	126	23	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 174
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 435	68	163	27	41	14	530	95	
+Supply: 4008	34	1500	14	373	126	266	48	
+Import: 0	34	0	13	0	0	264	47	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 175
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 609	95	228	38	57	19	742	133	
+Supply: 3721	23	1392	9	346	117	180	32	
+Import: 0	72	0	29	0	0	562	101	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 176
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 679	106	255	42	64	21	827	148	
+Supply: 3798	107	1421	43	353	119	836	150	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 177
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 506	79	190	32	47	16	616	111	
+Supply: 3220	16	1204	6	298	101	123	22	
+Import: 0	63	0	26	0	0	493	89	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 178
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 589	92	221	37	55	18	717	129	
+Supply: 3374	103	1261	41	313	106	804	144	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 179
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 571	89	214	36	54	18	696	125	
+Supply: 3472	107	1298	43	322	109	837	150	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 180
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 433	68	163	27	41	14	528	95	
+Supply: 3469	89	1297	36	321	109	692	124	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 181
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 434	68	163	27	41	14	529	95	
+Supply: 3721	107	1391	43	344	116	835	150	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 182
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 641	100	240	40	60	20	781	140	
+Supply: 3287	0	1228	0	303	102	1	0	
+Import: 0	100	0	40	0	0	780	140	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 183
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 29	5	11	2	3	1	35	6	
+Supply: 3143	78	1174	31	290	98	606	109	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 184
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 161	25	60	10	15	5	196	35	
+Supply: 3346	36	1250	15	309	104	283	51	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 185
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 745	116	279	47	70	23	908	163	
+Supply: 3382	31	1264	12	312	105	240	43	
+Import: 0	85	0	35	0	0	668	120	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 186
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 751	117	282	47	70	23	915	164	
+Supply: 3233	93	1209	37	298	101	726	130	
+Import: 0	24	0	10	0	0	189	34	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 187
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 371	58	139	23	35	12	452	81	
+Supply: 3115	99	1164	40	287	98	771	138	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 188
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 611	95	229	38	57	19	745	134	
+Supply: 2818	12	1053	5	259	88	91	16	
+Import: 0	83	0	33	0	0	654	118	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 189
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 530	83	199	33	50	17	646	116	
+Supply: 2776	89	1037	36	255	87	694	125	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 190
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 183	29	68	11	17	6	223	40	
+Supply: 2859	96	1068	38	262	89	747	134	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 191
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 569	89	213	36	53	18	693	124	
+Supply: 3038	57	1136	23	279	94	441	79	
+Import: 0	32	0	13	0	0	252	45	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 192
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 660	103	248	41	62	21	804	144	
+Supply: 2915	70	1090	28	268	90	543	98	
+Import: 0	33	0	13	0	0	261	46	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 193
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 340	53	127	21	32	11	414	74	
+Supply: 2891	99	1080	40	266	89	775	139	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 194
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 224	35	84	14	21	7	274	49	
+Supply: 2949	62	1102	25	271	90	486	87	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 195
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 86	13	32	5	8	3	105	19	
+Supply: 3456	114	1292	46	319	106	892	160	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 196
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	10	2	3	1	34	6	
+Supply: 3667	46	1371	19	339	112	362	65	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 197
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 302	47	113	19	28	9	368	66	
+Supply: 3850	33	1440	13	356	118	257	46	
+Import: 0	14	0	6	0	0	111	20	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 198
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 753	118	282	47	71	24	918	165	
+Supply: 3731	29	1395	11	345	115	222	40	
+Import: 0	89	0	36	0	0	696	125	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 199
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 480	75	180	30	45	15	585	105	
+Supply: 3028	8	1132	3	279	93	61	11	
+Import: 0	67	0	27	0	0	524	94	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 200
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 259	40	97	16	24	8	315	57	
+Supply: 3202	102	1197	41	295	98	797	143	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 201
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 715	112	268	45	67	22	871	156	
+Supply: 3579	99	1338	40	331	110	775	139	
+Import: 0	13	0	5	0	0	96	17	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 202
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 702	110	263	44	66	22	856	154	
+Supply: 3525	103	1318	41	326	109	806	145	
+Import: 0	7	0	3	0	0	50	9	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 203
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 536	84	201	34	50	17	654	117	
+Supply: 3009	29	1125	12	277	93	226	41	
+Import: 0	55	0	22	0	0	428	76	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 204
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 613	96	230	38	57	19	747	134	
+Supply: 2633	25	984	10	242	81	195	35	
+Import: 0	71	0	28	0	0	552	99	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 205
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 158	25	59	10	15	5	193	35	
+Supply: 2131	17	795	7	195	65	135	24	
+Import: 0	8	0	3	0	0	58	11	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 206
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 643	100	241	40	60	20	784	141	
+Supply: 2707	115	1011	46	249	83	894	161	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 207
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 111	17	42	7	10	3	135	24	
+Supply: 2603	84	972	34	240	80	657	118	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 208
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 411	64	154	26	39	13	501	90	
+Supply: 2937	70	1097	28	272	91	543	97	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 209
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 542	85	203	34	51	17	660	118	
+Supply: 3160	99	1181	40	292	98	772	139	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 210
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 275	43	103	17	26	9	336	60	
+Supply: 2892	43	1081	17	267	90	334	60	
+Import: 0	0	0	0	0	0	2	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 211
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 433	68	162	27	41	14	528	95	
+Supply: 3050	68	1140	27	282	95	527	95	
+Import: 0	0	0	0	0	0	1	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 212
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 755	118	283	47	71	24	921	165	
+Supply: 3215	93	1202	37	297	100	729	131	
+Import: 0	25	0	10	0	0	192	34	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 213
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 703	110	264	44	66	22	857	154	
+Supply: 2815	55	1052	22	259	87	432	78	
+Import: 0	55	0	22	0	0	425	76	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 214
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 640	100	240	40	60	20	780	140	
+Supply: 2563	70	957	28	235	79	549	99	
+Import: 0	30	0	12	0	0	231	41	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 215
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 280	44	105	18	26	9	342	61	
+Supply: 2519	93	940	37	231	78	726	130	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 216
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 221	34	83	14	21	7	269	48	
+Supply: 3028	123	1131	49	279	94	962	173	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 217
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 636	99	238	40	60	20	775	139	
+Supply: 3472	104	1297	42	320	108	810	145	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 218
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 180	28	67	11	17	6	219	39	
+Supply: 3173	53	1185	21	292	99	411	74	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 219
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 662	103	248	41	62	21	807	145	
+Supply: 3055	10	1141	4	281	95	76	14	
+Import: 0	93	0	37	0	0	731	131	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 220
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 783	122	294	49	73	24	954	171	
+Supply: 3132	115	1170	46	288	97	900	162	
+Import: 0	7	0	3	0	0	54	9	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 221
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 594	93	223	37	56	19	724	130	
+Supply: 3121	121	1166	48	287	97	941	169	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 222
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 456	71	171	29	43	14	556	100	
+Supply: 2764	37	1032	15	253	85	289	52	
+Import: 0	34	0	14	0	0	267	48	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 223
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 775	121	291	48	73	24	944	169	
+Supply: 2993	107	1118	43	274	92	835	150	
+Import: 0	14	0	5	0	0	109	19	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 224
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 261	41	98	16	24	8	318	57	
+Supply: 2944	113	1099	45	269	91	884	159	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 225
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 702	110	263	44	66	22	856	154	
+Supply: 3269	92	1221	37	300	101	714	128	
+Import: 0	18	0	7	0	0	142	26	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 226
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 768	120	288	48	72	24	936	168	
+Supply: 3052	76	1140	30	280	94	592	106	
+Import: 0	44	0	18	0	0	344	62	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 227
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 592	93	222	37	56	19	722	130	
+Supply: 2853	89	1066	36	261	88	694	125	
+Import: 0	4	0	1	0	0	28	5	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 228
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 407	64	153	25	38	13	496	89	
+Supply: 2911	102	1088	41	266	89	792	142	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 229
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 29	4	11	2	3	1	35	6	
+Supply: 2624	19	980	8	239	80	146	26	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 230
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 194	30	73	12	18	6	237	43	
+Supply: 2762	26	1032	10	252	84	204	37	
+Import: 0	4	0	2	0	0	33	6	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 231
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 209	33	78	13	20	7	255	46	
+Supply: 3012	69	1125	28	276	92	541	97	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 232
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 666	104	250	42	62	21	812	146	
+Supply: 3064	41	1145	16	280	93	318	57	
+Import: 0	63	0	26	0	0	494	89	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 233
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 252	39	95	16	24	8	308	55	
+Supply: 2586	29	965	12	236	78	229	41	
+Import: 0	10	0	4	0	0	79	14	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 234
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 361	56	135	23	34	11	440	79	
+Supply: 2462	20	918	8	224	74	156	28	
+Import: 0	36	0	15	0	0	284	51	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 235
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 511	80	192	32	48	16	623	112	
+Supply: 2491	61	929	24	227	75	475	85	
+Import: 0	19	0	8	0	0	148	27	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 236
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 192	30	72	12	18	6	234	42	
+Supply: 2482	78	925	31	226	75	612	110	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 237
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 411	64	154	26	38	13	500	90	
+Supply: 2618	51	976	21	239	79	400	72	
+Import: 0	13	0	5	0	0	100	18	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 238
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 799	125	300	50	75	25	974	175	
+Supply: 2459	39	916	16	225	74	307	55	
+Import: 0	86	0	34	0	0	667	120	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 239
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 201	31	75	13	19	6	244	44	
+Supply: 2268	95	844	38	207	68	741	133	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 240
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 151	24	57	9	14	5	184	33	
+Supply: 2691	98	1003	39	247	82	761	137	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 241
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 99	16	37	6	9	3	121	22	
+Supply: 3191	102	1190	41	294	97	793	142	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 242
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 445	70	167	28	42	14	543	97	
+Supply: 3549	71	1324	29	328	108	557	100	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 243
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 416	65	156	26	39	13	507	91	
+Supply: 3563	72	1329	29	329	108	560	100	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 244
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 65	10	24	4	6	2	79	14	
+Supply: 3786	100	1413	40	350	115	778	140	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 245
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 482	75	181	30	45	15	587	105	
+Supply: 4515	124	1687	50	418	138	968	174	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 246
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 350	55	131	22	33	11	427	77	
+Supply: 4509	74	1684	30	418	138	580	104	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 247
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 310	48	116	19	29	10	377	68	
+Supply: 4511	55	1685	22	418	138	430	77	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 248
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 135	21	51	8	13	4	165	30	
+Supply: 4893	108	1828	43	454	150	843	151	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 249
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 580	91	218	36	54	18	707	127	
+Supply: 4799	6	1793	3	445	147	50	9	
+Import: 0	85	0	33	0	0	657	118	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 250
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 696	109	261	43	65	22	848	152	
+Supply: 4554	52	1701	21	422	139	408	73	
+Import: 0	57	0	22	0	0	440	79	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 251
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 696	109	261	43	65	22	848	152	
+Supply: 3954	15	1476	6	366	120	117	21	
+Import: 0	94	0	37	0	0	731	131	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 252
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 217	34	81	14	20	7	264	47	
+Supply: 3896	100	1454	40	361	118	777	139	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 253
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 547	86	205	34	51	17	667	120	
+Supply: 4200	81	1568	33	390	127	635	114	
+Import: 0	5	0	1	0	0	32	6	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 254
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 599	94	225	37	56	19	730	131	
+Supply: 4289	99	1602	40	399	130	776	139	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 255
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 738	115	277	46	69	23	900	161	
+Supply: 4467	121	1668	49	416	135	947	170	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 256
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 362	57	136	23	34	11	441	79	
+Supply: 4245	81	1584	32	395	128	628	113	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 257
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 323	50	121	20	30	10	394	71	
+Supply: 4183	47	1561	19	389	126	366	66	
+Import: 0	3	0	1	0	0	28	5	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 258
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 562	88	211	35	53	18	685	123	
+Supply: 4218	56	1574	22	393	127	436	78	
+Import: 0	32	0	13	0	0	249	45	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 259
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 473	74	178	30	44	15	577	104	
+Supply: 4407	117	1645	47	410	132	915	164	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 260
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 542	85	203	34	51	17	661	119	
+Supply: 4470	84	1668	33	416	134	653	117	
+Import: 0	1	0	1	0	0	8	2	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 261
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 370	58	139	23	35	12	451	81	
+Supply: 4127	31	1540	12	384	123	243	44	
+Import: 0	27	0	11	0	0	208	37	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 262
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 400	63	150	25	38	13	488	88	
+Supply: 4198	69	1566	28	390	125	537	96	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 263
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 696	109	261	44	65	22	849	152	
+Supply: 4092	46	1526	18	380	121	359	64	
+Import: 0	63	0	26	0	0	490	88	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 264
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 231	36	87	14	22	7	281	51	
+Supply: 3891	77	1450	31	361	114	603	108	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 265
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 402	63	151	25	38	13	490	88	
+Supply: 4315	102	1609	41	400	127	799	143	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 266
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 369	58	138	23	35	12	449	81	
+Supply: 3949	6	1471	2	365	115	43	8	
+Import: 0	52	0	21	0	0	406	73	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 267
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 281	44	105	18	26	9	342	61	
+Supply: 4278	109	1595	44	395	125	851	153	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 268
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 207	32	78	13	19	6	252	45	
+Supply: 4237	38	1580	15	392	124	293	53	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 269
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 192	30	72	12	18	6	234	42	
+Supply: 4288	40	1599	16	397	126	314	56	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 270
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 82	13	31	5	8	3	99	18	
+Supply: 4470	59	1667	23	414	132	456	82	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 271
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 50	8	19	3	5	2	61	11	
+Supply: 4592	32	1713	13	425	135	249	45	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 272
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 603	94	226	38	56	19	734	132	
+Supply: 5228	107	1951	43	484	154	836	150	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 273
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 66	10	25	4	6	2	81	15	
+Supply: 5268	100	1966	40	488	155	783	141	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 274
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 285	45	107	18	27	9	347	62	
+Supply: 6001	125	2241	50	557	178	974	175	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 275
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 682	107	256	43	64	21	831	149	
+Supply: 5948	36	2221	14	552	176	283	51	
+Import: 0	71	0	29	0	0	548	98	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 276
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 84	13	31	5	8	3	102	18	
+Supply: 5502	37	2054	15	510	162	288	52	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 277
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 719	112	270	45	67	22	876	157	
+Supply: 5517	15	2060	6	511	162	121	22	
+Import: 0	97	0	39	0	0	755	135	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 278
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 350	55	131	22	33	11	426	77	
+Supply: 4818	3	1798	1	446	141	24	4	
+Import: 0	52	0	21	0	0	402	73	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 279
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 559	87	210	35	52	17	681	122	
+Supply: 4934	73	1842	29	457	145	568	102	
+Import: 0	14	0	6	0	0	113	20	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 280
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 235	37	88	15	22	7	286	51	
+Supply: 5083	111	1898	44	471	150	863	155	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 281
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 696	109	261	43	65	22	848	152	
+Supply: 4989	22	1863	9	462	147	172	31	
+Import: 0	87	0	34	0	0	676	121	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 282
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 753	118	283	47	71	24	918	165	
+Supply: 5065	121	1891	48	469	149	941	169	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 283
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 292	46	110	18	27	9	356	64	
+Supply: 5104	124	1905	49	472	150	965	173	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 284
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 113	18	42	7	11	4	138	25	
+Supply: 5358	85	2000	34	496	158	666	120	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 285
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 381	59	143	24	36	12	464	83	
+Supply: 5380	21	2009	8	498	158	164	30	
+Import: 0	38	0	16	0	0	300	53	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 286
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 80	12	30	5	7	2	97	17	
+Supply: 5407	64	2019	25	500	159	497	89	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 287
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 546	85	205	34	51	17	665	119	
+Supply: 6018	108	2248	43	558	179	842	151	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 288
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 111	17	42	7	10	3	135	24	
+Supply: 5724	39	2138	16	531	170	307	55	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 289
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 525	82	197	33	49	16	640	115	
+Supply: 5723	17	2137	7	531	170	134	24	
+Import: 0	65	0	26	0	0	506	91	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 290
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 458	72	172	29	43	14	559	100	
+Supply: 5954	118	2223	47	553	178	921	165	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 291
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 720	112	270	45	67	22	877	157	
+Supply: 5586	14	2085	6	518	167	110	20	
+Import: 0	98	0	39	0	0	767	137	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 292
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 685	107	257	43	64	21	835	150	
+Supply: 5050	29	1884	12	468	151	224	40	
+Import: 0	78	0	31	0	0	611	110	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 293
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	12	2	3	1	38	7	
+Supply: 4638	43	1730	17	430	139	333	60	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 294
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 304	48	114	19	29	10	371	67	
+Supply: 5135	83	1916	33	477	155	644	116	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 295
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 346	54	130	22	32	11	422	76	
+Supply: 5604	121	2092	48	521	169	943	169	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 296
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 752	118	282	47	71	24	917	165	
+Supply: 5600	53	2090	21	521	169	416	75	
+Import: 0	65	0	26	0	0	501	90	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 297
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 656	103	246	41	62	21	800	144	
+Supply: 5164	49	1926	20	480	155	385	69	
+Import: 0	54	0	21	0	0	415	75	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 298
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 578	90	217	36	54	18	704	126	
+Supply: 4522	2	1685	1	419	134	17	3	
+Import: 0	88	0	35	0	0	687	123	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 299
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 695	109	261	43	65	22	847	152	
+Supply: 4438	77	1653	31	411	131	602	108	
+Import: 0	32	0	12	0	0	245	44	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 300
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 610	95	229	38	57	19	743	133	
+Supply: 3907	26	1454	10	361	114	200	36	
+Import: 0	69	0	28	0	0	543	97	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 301
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 8	1	3	1	1	0	10	2	
+Supply: 3896	94	1450	37	360	114	730	131	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 302
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 339	53	127	21	32	11	414	74	
+Supply: 3954	10	1472	4	365	116	81	14	
+Import: 0	43	0	17	0	0	333	60	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 303
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 222	35	83	14	21	7	270	48	
+Supply: 4121	79	1535	32	380	121	617	111	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 304
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 115	18	43	7	11	4	140	25	
+Supply: 4404	79	1641	32	406	130	615	110	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 305
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 208	32	78	13	19	6	253	45	
+Supply: 4874	91	1817	37	450	144	712	128	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 306
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 287	45	108	18	27	9	350	63	
+Supply: 5188	82	1935	33	480	154	636	114	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 307
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 105	16	39	7	10	3	127	23	
+Supply: 5066	26	1889	10	469	150	202	36	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 308
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 740	116	277	46	69	23	902	162	
+Supply: 5375	65	2005	26	498	160	505	91	
+Import: 0	51	0	20	0	0	397	71	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 309
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 81	13	30	5	8	3	99	18	
+Supply: 5066	67	1890	27	469	150	526	94	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 310
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 109	17	41	7	10	3	133	24	
+Supply: 5620	99	2098	40	521	167	774	139	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 311
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 156	24	58	10	15	5	190	34	
+Supply: 5989	75	2236	30	556	179	583	105	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 312
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 659	103	247	41	62	21	803	144	
+Supply: 6450	96	2410	39	599	193	752	135	
+Import: 0	7	0	2	0	0	51	9	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 313
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 73	11	27	5	7	2	89	16	
+Supply: 6313	82	2359	33	586	188	636	114	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 314
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 351	55	132	22	33	11	428	77	
+Supply: 6701	72	2505	29	622	200	562	101	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 315
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 358	56	134	22	34	11	436	78	
+Supply: 6949	94	2598	37	645	208	730	131	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 316
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 525	82	197	33	49	16	640	115	
+Supply: 7358	120	2752	48	683	221	935	168	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 317
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 589	92	221	37	55	18	717	129	
+Supply: 7307	74	2733	30	678	220	578	104	
+Import: 0	18	0	7	0	0	139	25	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 318
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 415	65	156	26	39	13	506	91	
+Supply: 7115	62	2661	25	660	214	484	87	
+Import: 0	3	0	1	0	0	22	4	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 319
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 433	68	162	27	41	14	527	95	
+Supply: 7259	87	2715	35	673	218	682	122	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 320
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 37	6	14	2	3	1	45	8	
+Supply: 7186	56	2688	23	666	215	439	79	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 321
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 613	96	230	38	57	19	747	134	
+Supply: 7686	84	2875	34	713	231	654	117	
+Import: 0	12	0	4	0	0	93	17	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 322
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 373	58	140	23	35	12	454	81	
+Supply: 7381	48	2761	19	685	222	376	67	
+Import: 0	10	0	4	0	0	78	14	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 323
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 367	57	138	23	34	11	447	80	
+Supply: 7631	97	2855	39	708	229	759	136	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 324
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 584	91	219	36	55	18	712	128	
+Supply: 7329	10	2741	4	680	220	79	14	
+Import: 0	81	0	32	0	0	633	114	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 325
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 240	37	90	15	22	7	292	52	
+Supply: 7367	97	2755	39	683	221	758	136	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 326
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 240	37	90	15	22	7	292	52	
+Supply: 7644	81	2859	32	709	230	630	113	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 327
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 187	29	70	12	18	6	228	41	
+Supply: 8162	118	3053	47	758	247	923	166	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 328
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 674	105	253	42	63	21	822	147	
+Supply: 8756	122	3276	49	813	265	952	171	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 329
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 545	85	204	34	51	17	664	119	
+Supply: 8237	24	3081	10	765	249	189	34	
+Import: 0	61	0	24	0	0	475	85	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 330
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 28	4	10	2	3	1	34	6	
+Supply: 8477	123	3172	49	788	257	957	172	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 331
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 109	17	41	7	10	3	132	24	
+Supply: 8678	36	3248	14	806	263	279	50	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 332
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 117	18	44	7	11	4	143	26	
+Supply: 8865	46	3318	18	824	269	361	65	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 333
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 771	120	289	48	72	24	940	169	
+Supply: 9495	117	3554	47	883	288	911	163	
+Import: 0	3	0	1	0	0	29	6	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 334
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 31	5	11	2	3	1	37	7	
+Supply: 9353	98	3501	39	870	284	767	138	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 335
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 128	20	48	8	12	4	156	28	
+Supply: 9796	74	3668	30	911	298	578	104	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 336
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 609	95	229	38	57	19	743	133	
+Supply: 9727	9	3642	4	905	296	72	13	
+Import: 0	86	0	34	0	0	671	120	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 337
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 427	67	160	27	40	13	521	93	
+Supply: 9185	11	3438	4	854	279	82	15	
+Import: 0	56	0	23	0	0	439	78	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 338
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 677	106	254	42	63	21	825	148	
+Supply: 9359	94	3503	38	870	285	732	131	
+Import: 0	12	0	4	0	0	93	17	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 339
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 757	118	284	47	71	24	923	166	
+Supply: 9474	124	3546	50	881	289	966	173	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 340
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 261	41	98	16	25	8	319	57	
+Supply: 9053	53	3388	21	842	276	410	74	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 341
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 208	32	78	13	19	6	253	45	
+Supply: 8888	15	3326	6	826	271	117	21	
+Import: 0	17	0	7	0	0	136	24	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 342
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 291	45	109	18	27	9	355	64	
+Supply: 9046	57	3385	23	841	276	446	80	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 343
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 272	42	102	17	25	8	331	59	
+Supply: 9491	115	3552	46	883	290	897	161	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 344
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 432	68	162	27	41	14	527	95	
+Supply: 9843	97	3684	39	916	301	760	136	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 345
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 707	111	265	44	66	22	862	155	
+Supply: 10025	96	3752	38	933	306	749	134	
+Import: 0	15	0	6	0	0	113	21	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 346
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 595	93	223	37	56	19	726	130	
+Supply: 9592	43	3590	17	893	293	334	60	
+Import: 0	50	0	20	0	0	392	70	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 347
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 133	21	50	8	12	4	162	29	
+Supply: 9118	19	3412	8	848	278	148	27	
+Import: 0	2	0	0	0	0	14	2	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 348
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 312	49	117	19	29	10	380	68	
+Supply: 9608	97	3596	39	894	293	759	136	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 349
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 57	9	21	4	5	2	69	12	
+Supply: 9887	92	3701	37	920	301	721	129	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 350
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 68	11	25	4	6	2	83	15	
+Supply: 10141	49	3797	19	944	309	379	68	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 351
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 710	111	266	44	67	22	866	155	
+Supply: 10229	24	3831	10	953	312	191	34	
+Import: 0	87	0	34	0	0	675	121	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 352
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 160	25	60	10	15	5	196	35	
+Supply: 10037	81	3759	32	935	306	631	113	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 353
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 628	98	236	39	59	20	765	137	
+Supply: 10458	91	3917	36	974	319	708	127	
+Import: 0	7	0	3	0	0	57	10	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 354
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 528	83	198	33	50	17	644	116	
+Supply: 10517	107	3939	43	979	320	838	150	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 355
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 101	16	38	6	9	3	123	22	
+Supply: 10071	13	3772	5	937	306	100	18	
+Import: 0	3	0	1	0	0	23	4	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 356
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 461	72	173	29	43	14	562	101	
+Supply: 10023	8	3754	3	933	305	64	12	
+Import: 0	64	0	26	0	0	498	89	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 357
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 581	91	218	36	54	18	708	127	
+Supply: 10227	104	3830	42	952	312	811	146	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 358
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 244	38	92	15	23	8	297	53	
+Supply: 9965	50	3732	20	928	304	389	70	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 359
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 523	82	196	33	49	16	638	114	
+Supply: 9958	37	3729	15	927	303	289	52	
+Import: 0	45	0	18	0	0	349	62	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 360
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 443	69	166	28	42	14	540	97	
+Supply: 10023	92	3753	37	933	305	716	129	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 361
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 384	60	144	24	36	12	468	84	
+Supply: 10105	82	3784	33	940	307	639	115	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 362
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 144	22	54	9	13	4	175	31	
+Supply: 10245	82	3836	33	953	311	639	115	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 363
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 43	7	16	3	4	1	52	9	
+Supply: 10156	9	3803	3	945	309	67	12	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 364
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 316	49	119	20	30	10	385	69	
+Supply: 10496	60	3931	24	977	320	467	84	
+Import: 0	0	0	0	0	0	0	0	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+Day: 365
+	A+	A-	B+	B-	AB+	AB-	O+	O-
+Demand: 647	101	243	40	61	20	788	141	
+Supply: 10633	71	3982	28	989	324	552	99	
+Import: 0	30	0	12	0	0	236	42	
+Expiry: 0	0	0	0	0	0	0	0	
+Fitness: NaN
+
+AVERAGES ACHIEVED OVER 365 DAYS
+--------------------------------------------------------------------------
+		A+	A-	B+	B-	AB+	AB-	O+	O-
+Avg demand:	397.69 	62.14 	149.13 	24.86 	37.28 	12.43 	484.68 	86.99 	
+Avg supply:	3331.25 	80.35 	1264.40 	40.95 	307.45 	106.53 	503.23 	108.92 	
+Avg import:	46.06 	14.62 	5.68 	5.70 	6.45 	0.40 	129.94 	19.75 	
+Avg expiry:	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	0.00 	
+Number of Solutions: 0
+Time: 504499
+
+Supply
+327 
+313 
+1048 
+2120 
+2206 
+1546 
+819 
+717 
+191 
+1471 
+2059 
+477 
+1128 
+693 
+1642 
+2513 
+902 
+2297 
+1493 
+906 
+1972 
+2400 
+2493 
+1198 
+1504 
+941 
+95 
+2154 
+1367 
+956 
+1668 
+903 
+348 
+1574 
+2086 
+1034 
+1562 
+2369 
+1417 
+354 
+2240 
+359 
+159 
+532 
+1046 
+974 
+1622 
+515 
+2059 
+716 
+1486 
+480 
+232 
+1095 
+2066 
+975 
+260 
+264 
+530 
+2401 
+773 
+387 
+2354 
+659 
+1922 
+1599 
+1687 
+1997 
+1907 
+1429 
+1768 
+2090 
+125 
+1354 
+568 
+1387 
+1041 
+2023 
+1577 
+742 
+1175 
+583 
+1482 
+1789 
+773 
+1092 
+1263 
+394 
+343 
+2481 
+1858 
+945 
+1745 
+2869 
+4090 
+2397 
+2367 
+3088 
+3742 
+4532 
+3846 
+3824 
+4537 
+5533 
+4259 
+6184 
+6332 
+6137 
+4935 
+5124 
+4626 
+5143 
+3848 
+4471 
+2860 
+2996 
+4376 
+4712 
+4353 
+3846 
+3381 
+2741 
+3443 
+3457 
+2591 
+3415 
+2207 
+1759 
+689 
+118 
+532 
+2467 
+2840 
+2992 
+2804 
+3056 
+3261 
+3297 
+2196 
+2712 
+3167 
+2394 
+2153 
+1009 
+1189 
+2769 
+3509 
+2111 
+2515 
+2597 
+1803 
+2639 
+3172 
+3237 
+3858 
+5026 
+5080 
+4162 
+5436 
+4040 
+5288 
+5549 
+5905 
+6193 
+6541 
+5942 
+6995 
+5995 
+5210 
+6394 
+6055 
+6996 
+7783 
+6369 
+5820 
+6827 
+4990 
+6146 
+6338 
+6137 
+6707 
+4921 
+5529 
+5394 
+5389 
+5827 
+5712 
+4342 
+5099 
+5293 
+5147 
+5102 
+5379 
+5072 
+6385 
+5981 
+6113 
+5888 
+4615 
+5875 
+6411 
+6373 
+4812 
+4205 
+3369 
+5266 
+4788 
+5135 
+5781 
+4784 
+5284 
+5804 
+4800 
+4580 
+4754 
+5839 
+6298 
+5308 
+4676 
+5910 
+5950 
+4527 
+5612 
+5604 
+5862 
+5370 
+5212 
+5431 
+4122 
+4407 
+5240 
+5014 
+4176 
+3890 
+4367 
+4539 
+4456 
+4091 
+4394 
+5058 
+5850 
+6066 
+6090 
+6722 
+8074 
+7537 
+7336 
+8470 
+7252 
+7370 
+6075 
+6885 
+7148 
+7474 
+7973 
+7206 
+6757 
+6904 
+7837 
+7575 
+6504 
+7009 
+6606 
+6635 
+7536 
+5959 
+7550 
+6732 
+6836 
+7303 
+7204 
+8953 
+8941 
+10301 
+9281 
+8620 
+8414 
+7235 
+8150 
+8775 
+7695 
+8853 
+8942 
+8917 
+8268 
+8760 
+10147 
+8980 
+8743 
+10159 
+8506 
+7858 
+7390 
+8559 
+9667 
+8945 
+8248 
+6783 
+7451 
+6108 
+6812 
+6016 
+6996 
+7417 
+8253 
+8622 
+7848 
+8725 
+8289 
+9458 
+9753 
+10674 
+10311 
+10792 
+11392 
+12285 
+11724 
+11308 
+11791 
+11352 
+12394 
+11559 
+12454 
+11077 
+12056 
+12298 
+13474 
+14404 
+12589 
+13995 
+13374 
+13766 
+15458 
+15050 
+15459 
+14668 
+13868 
+15012 
+15503 
+14117 
+13470 
+14154 
+15435 
+15776 
+16033 
+14822 
+13858 
+15422 
+15788 
+15706 
+15584 
+15894 
+16630 
+16893 
+15222 
+15102 
+16424 
+15458 
+15310 
+15988 
+16005 
+16214 
+15304 
+16359 
+16678 
+--------------------------------------------------
+Demand
+327 
+313 
+1048 
+2120 
+2206 
+1546 
+749 
+717 
+189 
+1471 
+2059 
+477 
+1129 
+693 
+1642 
+2513 
+902 
+2297 
+1492 
+906 
+1972 
+2400 
+2493 
+1198 
+1504 
+920 
+95 
+2154 
+1367 
+956 
+1668 
+903 
+349 
+1575 
+2085 
+1034 
+1562 
+2369 
+1417 
+355 
+2239 
+359 
+155 
+532 
+1046 
+975 
+1622 
+515 
+2058 
+716 
+1486 
+480 
+232 
+1095 
+2066 
+975 
+260 
+264 
+530 
+2400 
+773 
+387 
+2354 
+659 
+1922 
+1599 
+1687 
+1997 
+1909 
+1429 
+1768 
+2090 
+125 
+1354 
+568 
+1387 
+1041 
+2023 
+1577 
+742 
+1175 
+413 
+1482 
+1788 
+773 
+1092 
+1263 
+394 
+343 
+2481 
+1858 
+945 
+2 
+256 
+1168 
+1326 
+1868 
+375 
+618 
+1704 
+1931 
+811 
+752 
+1098 
+148 
+1739 
+2220 
+644 
+1023 
+1905 
+2396 
+1697 
+1498 
+2369 
+521 
+278 
+1748 
+1204 
+208 
+1993 
+1759 
+1474 
+1813 
+1444 
+832 
+1562 
+1799 
+2162 
+1770 
+1778 
+2368 
+557 
+376 
+1304 
+838 
+1606 
+312 
+1536 
+1941 
+317 
+1795 
+2263 
+1236 
+331 
+1483 
+194 
+605 
+581 
+1623 
+1268 
+1645 
+1483 
+574 
+811 
+779 
+376 
+934 
+1423 
+2409 
+602 
+143 
+1054 
+521 
+1512 
+934 
+1197 
+1997 
+549 
+834 
+2457 
+844 
+0 
+2274 
+1372 
+1922 
+2143 
+1596 
+1858 
+1802 
+1368 
+1371 
+2023 
+92 
+508 
+2350 
+2370 
+1170 
+1929 
+1674 
+576 
+1794 
+2083 
+1072 
+708 
+271 
+87 
+952 
+2377 
+1516 
+817 
+2256 
+2216 
+1693 
+1935 
+499 
+2030 
+351 
+1297 
+1709 
+869 
+1367 
+2384 
+2218 
+2020 
+885 
+696 
+2007 
+568 
+2089 
+2470 
+1874 
+1440 
+2445 
+824 
+2216 
+2424 
+1869 
+1284 
+91 
+614 
+659 
+2102 
+797 
+1139 
+1614 
+607 
+1296 
+2523 
+633 
+478 
+313 
+1405 
+1314 
+204 
+1521 
+1106 
+977 
+427 
+1831 
+2196 
+2196 
+683 
+1728 
+1891 
+2330 
+1142 
+1019 
+1773 
+1494 
+1712 
+1167 
+1264 
+2198 
+729 
+1268 
+1164 
+887 
+653 
+607 
+257 
+158 
+1902 
+210 
+899 
+2153 
+265 
+2270 
+1104 
+1765 
+741 
+2196 
+2378 
+922 
+356 
+1201 
+252 
+1722 
+351 
+1657 
+1447 
+2272 
+2163 
+99 
+960 
+1093 
+2374 
+2072 
+1824 
+2194 
+1924 
+27 
+1071 
+699 
+364 
+656 
+906 
+330 
+2335 
+256 
+345 
+491 
+2080 
+231 
+1109 
+1129 
+1656 
+1858 
+1311 
+1366 
+117 
+1934 
+1176 
+1158 
+1843 
+756 
+757 
+591 
+2128 
+1720 
+88 
+343 
+370 
+2434 
+97 
+405 
+1924 
+1348 
+2137 
+2390 
+825 
+655 
+918 
+857 
+1365 
+2232 
+1879 
+418 
+984 
+179 
+214 
+2242 
+506 
+1982 
+1667 
+319 
+1455 
+1835 
+770 
+1652 
+1399 
+1211 
+454 
+135 
+998 
+2041 
+--------------------------------------------------
+Expire
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+--------------------------------------------------
+Import
+55 
+21 
+255 
+726 
+497 
+435 
+0 
+236 
+65 
+565 
+315 
+60 
+124 
+167 
+187 
+368 
+290 
+220 
+260 
+281 
+525 
+796 
+398 
+443 
+489 
+434 
+7 
+43 
+375 
+230 
+543 
+142 
+160 
+467 
+377 
+524 
+879 
+45 
+134 
+197 
+220 
+60 
+19 
+189 
+348 
+378 
+428 
+148 
+136 
+181 
+451 
+296 
+37 
+298 
+607 
+278 
+77 
+69 
+159 
+191 
+140 
+93 
+281 
+195 
+542 
+500 
+194 
+79 
+79 
+480 
+602 
+41 
+31 
+446 
+155 
+167 
+190 
+569 
+723 
+292 
+394 
+173 
+304 
+1192 
+240 
+298 
+534 
+89 
+44 
+166 
+610 
+405 
+0 
+0 
+0 
+628 
+630 
+0 
+0 
+0 
+380 
+0 
+0 
+0 
+0 
+0 
+34 
+0 
+459 
+605 
+835 
+0 
+470 
+376 
+73 
+0 
+0 
+0 
+0 
+895 
+590 
+497 
+70 
+0 
+47 
+0 
+745 
+817 
+1081 
+1660 
+1836 
+0 
+0 
+0 
+0 
+187 
+0 
+262 
+928 
+0 
+202 
+756 
+0 
+117 
+572 
+0 
+0 
+298 
+491 
+29 
+628 
+0 
+0 
+0 
+0 
+0 
+0 
+573 
+149 
+0 
+0 
+0 
+0 
+79 
+0 
+219 
+0 
+0 
+434 
+458 
+0 
+0 
+171 
+358 
+765 
+0 
+671 
+0 
+0 
+0 
+0 
+1061 
+0 
+0 
+907 
+258 
+0 
+888 
+0 
+0 
+342 
+354 
+0 
+0 
+0 
+0 
+150 
+945 
+712 
+0 
+131 
+68 
+580 
+750 
+79 
+0 
+0 
+0 
+0 
+2 
+1 
+261 
+577 
+314 
+0 
+0 
+0 
+0 
+992 
+73 
+0 
+363 
+148 
+0 
+192 
+468 
+37 
+0 
+0 
+45 
+0 
+671 
+107 
+386 
+202 
+0 
+136 
+907 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+893 
+598 
+994 
+0 
+44 
+0 
+0 
+0 
+37 
+338 
+0 
+11 
+283 
+0 
+666 
+0 
+0 
+552 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+746 
+0 
+1027 
+547 
+154 
+0 
+918 
+0 
+0 
+0 
+407 
+0 
+0 
+0 
+688 
+0 
+1042 
+830 
+0 
+0 
+0 
+681 
+564 
+934 
+333 
+738 
+0 
+453 
+0 
+0 
+0 
+0 
+0 
+538 
+0 
+0 
+0 
+69 
+0 
+0 
+0 
+0 
+189 
+30 
+0 
+0 
+126 
+107 
+0 
+860 
+0 
+0 
+0 
+0 
+646 
+0 
+0 
+0 
+39 
+0 
+0 
+911 
+596 
+126 
+0 
+0 
+185 
+0 
+0 
+0 
+154 
+532 
+18 
+0 
+0 
+0 
+918 
+0 
+78 
+0 
+31 
+676 
+0 
+0 
+474 
+0 
+0 
+0 
+0 
+0 
+321 
